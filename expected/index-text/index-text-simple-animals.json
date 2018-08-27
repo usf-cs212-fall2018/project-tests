@@ -1,0 +1,45 @@
+{
+	"axolotl": {
+		"text/simple/animals.text": [
+			7
+		]
+	},
+	"echidna": {
+		"text/simple/animals.text": [
+			10
+		]
+	},
+	"lori": {
+		"text/simple/animals.text": [
+			4,
+			5,
+			6
+		]
+	},
+	"mongoos": {
+		"text/simple/animals.text": [
+			3
+		]
+	},
+	"narwhal": {
+		"text/simple/animals.text": [
+			8
+		]
+	},
+	"okapi": {
+		"text/simple/animals.text": [
+			1,
+			2
+		]
+	},
+	"platypus": {
+		"text/simple/animals.text": [
+			9
+		]
+	},
+	"tarsier": {
+		"text/simple/animals.text": [
+			11
+		]
+	}
+}
