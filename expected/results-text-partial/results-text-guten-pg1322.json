@@ -1,0 +1,57 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 6,
+				"score": 0.000048
+			}
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 87,
+				"score": 0.000700
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 34,
+				"score": 0.000273
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2776,
+				"score": 0.022320
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 5,
+				"score": 0.000040
+			}
+		]
+	}
+]

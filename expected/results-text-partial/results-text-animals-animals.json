@@ -1,0 +1,22 @@
+[
+	{
+		"queries": "lori",
+		"results": [
+			{
+				"where": "text/simple/animals.text",
+				"count": 3,
+				"score": 0.272727
+			}
+		]
+	},
+	{
+		"queries": "narwhal tarsier",
+		"results": [
+			{
+				"where": "text/simple/animals.text",
+				"count": 2,
+				"score": 0.181818
+			}
+		]
+	}
+]

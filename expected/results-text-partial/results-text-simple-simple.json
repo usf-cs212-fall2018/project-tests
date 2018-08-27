@@ -1,0 +1,87 @@
+[
+	{
+		"queries": "aar alpaca eleph",
+		"results": [
+			{
+				"where": "text/simple/capitals.txt",
+				"count": 4,
+				"score": 1.000000
+			},
+			{
+				"where": "text/simple/digits.txt",
+				"count": 2,
+				"score": 1.000000
+			},
+			{
+				"where": "text/simple/a/b/c/d/subdir.txt",
+				"count": 1,
+				"score": 1.000000
+			}
+		]
+	},
+	{
+		"queries": "ant",
+		"results": [
+			{
+				"where": "text/simple/symbols.txt",
+				"count": 10,
+				"score": 1.000000
+			}
+		]
+	},
+	{
+		"queries": "antelop observ",
+		"results": [
+			{
+				"where": "text/simple/symbols.txt",
+				"count": 10,
+				"score": 1.000000
+			},
+			{
+				"where": "text/simple/words.tExT",
+				"count": 13,
+				"score": 0.541667
+			}
+		]
+	},
+	{
+		"queries": "capybara hidden",
+		"results": [
+			{
+				"where": "text/simple/.txt/hidden.txt",
+				"count": 1,
+				"score": 1.000000
+			},
+			{
+				"where": "text/simple/capital_extension.TXT",
+				"count": 1,
+				"score": 1.000000
+			}
+		]
+	},
+	{
+		"queries": "cardin",
+		"results": [
+		]
+	},
+	{
+		"queries": "eight nine seven",
+		"results": [
+			{
+				"where": "text/simple/position.teXt",
+				"count": 6,
+				"score": 0.300000
+			}
+		]
+	},
+	{
+		"queries": "hello world",
+		"results": [
+			{
+				"where": "text/simple/hello.txt",
+				"count": 6,
+				"score": 1.000000
+			}
+		]
+	}
+]

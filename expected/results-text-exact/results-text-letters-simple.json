@@ -1,0 +1,757 @@
+[
+	{
+		"queries": "a",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d e",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d e f",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d e f g",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d e f g h",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d e f g h i",
+		"results": [
+		]
+	},
+	{
+		"queries": "a b c d e f g h i j",
+		"results": [
+		]
+	},
+	{
+		"queries": "aa ab ac ad ae af ag ah ai aj ak al am",
+		"results": [
+		]
+	},
+	{
+		"queries": "aa ae ai ao au",
+		"results": [
+		]
+	},
+	{
+		"queries": "aa ee ii oo uu",
+		"results": [
+		]
+	},
+	{
+		"queries": "an ao ap aq ar as at au av aw ax ay az",
+		"results": [
+		]
+	},
+	{
+		"queries": "b",
+		"results": [
+		]
+	},
+	{
+		"queries": "ba bb bc bd be bf bg bh bi bj bk bl bm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ba be bi bo bu",
+		"results": [
+		]
+	},
+	{
+		"queries": "bn bo bp bq br bs bt bu bv bw bx by bz",
+		"results": [
+		]
+	},
+	{
+		"queries": "c",
+		"results": [
+		]
+	},
+	{
+		"queries": "c d",
+		"results": [
+		]
+	},
+	{
+		"queries": "ca cb cc cd ce cf cg ch ci cj ck cl cm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ca ce ci co cu",
+		"results": [
+		]
+	},
+	{
+		"queries": "cn co cp cq cr cs ct cu cv cw cx cy cz",
+		"results": [
+		]
+	},
+	{
+		"queries": "d",
+		"results": [
+		]
+	},
+	{
+		"queries": "d e f",
+		"results": [
+		]
+	},
+	{
+		"queries": "da db dc dd de df dg dh di dj dk dl dm",
+		"results": [
+		]
+	},
+	{
+		"queries": "da de di do du",
+		"results": [
+		]
+	},
+	{
+		"queries": "dn do dp dq dr ds dt du dv dw dx dy dz",
+		"results": [
+		]
+	},
+	{
+		"queries": "e",
+		"results": [
+		]
+	},
+	{
+		"queries": "e f",
+		"results": [
+		]
+	},
+	{
+		"queries": "e f g h",
+		"results": [
+		]
+	},
+	{
+		"queries": "ea eb ec ed ee ef eg eh ei ej ek el em",
+		"results": [
+		]
+	},
+	{
+		"queries": "ea ee ei eo eu",
+		"results": [
+		]
+	},
+	{
+		"queries": "en eo ep eq er es et eu ev ew ex ey ez",
+		"results": [
+		]
+	},
+	{
+		"queries": "f",
+		"results": [
+		]
+	},
+	{
+		"queries": "f g h i j",
+		"results": [
+		]
+	},
+	{
+		"queries": "fa fb fc fd fe ff fg fh fi fj fk fl fm",
+		"results": [
+		]
+	},
+	{
+		"queries": "fa fe fi fo fu",
+		"results": [
+		]
+	},
+	{
+		"queries": "fn fo fp fq fr fs ft fu fv fw fx fy fz",
+		"results": [
+		]
+	},
+	{
+		"queries": "g",
+		"results": [
+		]
+	},
+	{
+		"queries": "g h",
+		"results": [
+		]
+	},
+	{
+		"queries": "g h i",
+		"results": [
+		]
+	},
+	{
+		"queries": "g h i j k l",
+		"results": [
+		]
+	},
+	{
+		"queries": "ga gb gc gd ge gf gg gh gi gj gk gl gm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ga ge gi go gu",
+		"results": [
+		]
+	},
+	{
+		"queries": "gn go gp gq gr gs gt gu gv gw gx gy gz",
+		"results": [
+		]
+	},
+	{
+		"queries": "h",
+		"results": [
+		]
+	},
+	{
+		"queries": "h i j k l m n",
+		"results": [
+		]
+	},
+	{
+		"queries": "ha hb hc hd he hf hg hh hi hj hk hl hm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ha he hi ho hu",
+		"results": [
+		]
+	},
+	{
+		"queries": "hn ho hp hq hr hs ht hu hv hw hx hy hz",
+		"results": [
+		]
+	},
+	{
+		"queries": "i",
+		"results": [
+		]
+	},
+	{
+		"queries": "i j",
+		"results": [
+		]
+	},
+	{
+		"queries": "i j k l",
+		"results": [
+		]
+	},
+	{
+		"queries": "i j k l m n o p",
+		"results": [
+		]
+	},
+	{
+		"queries": "ia ib ic id ie if ig ih ii ij ik il im",
+		"results": [
+		]
+	},
+	{
+		"queries": "ia ie ii io iu",
+		"results": [
+		]
+	},
+	{
+		"queries": "in io ip iq ir is it iu iv iw ix iy iz",
+		"results": [
+		]
+	},
+	{
+		"queries": "j",
+		"results": [
+		]
+	},
+	{
+		"queries": "j k l",
+		"results": [
+		]
+	},
+	{
+		"queries": "j k l m n o p q r",
+		"results": [
+		]
+	},
+	{
+		"queries": "ja jb jc jd je jf jg jh ji jj jk jl jm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ja je ji jo ju",
+		"results": [
+		]
+	},
+	{
+		"queries": "jn jo jp jq jr js jt ju jv jw jx jy jz",
+		"results": [
+		]
+	},
+	{
+		"queries": "k",
+		"results": [
+		]
+	},
+	{
+		"queries": "k l",
+		"results": [
+		]
+	},
+	{
+		"queries": "k l m n o",
+		"results": [
+		]
+	},
+	{
+		"queries": "k l m n o p q r s t",
+		"results": [
+		]
+	},
+	{
+		"queries": "ka kb kc kd ke kf kg kh ki kj kk kl km",
+		"results": [
+		]
+	},
+	{
+		"queries": "ka ke ki ko ku",
+		"results": [
+		]
+	},
+	{
+		"queries": "kn ko kp kq kr ks kt ku kv kw kx ky kz",
+		"results": [
+		]
+	},
+	{
+		"queries": "l",
+		"results": [
+		]
+	},
+	{
+		"queries": "la lb lc ld le lf lg lh li lj lk ll lm",
+		"results": [
+		]
+	},
+	{
+		"queries": "la le li lo lu",
+		"results": [
+		]
+	},
+	{
+		"queries": "ln lo lp lq lr ls lt lu lv lw lx ly lz",
+		"results": [
+		]
+	},
+	{
+		"queries": "m",
+		"results": [
+		]
+	},
+	{
+		"queries": "m n",
+		"results": [
+		]
+	},
+	{
+		"queries": "m n o",
+		"results": [
+		]
+	},
+	{
+		"queries": "m n o p",
+		"results": [
+		]
+	},
+	{
+		"queries": "m n o p q r",
+		"results": [
+		]
+	},
+	{
+		"queries": "ma mb mc md me mf mg mh mi mj mk ml mm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ma me mi mo mu",
+		"results": [
+		]
+	},
+	{
+		"queries": "mn mo mp mq mr ms mt mu mv mw mx my mz",
+		"results": [
+		]
+	},
+	{
+		"queries": "n",
+		"results": [
+		]
+	},
+	{
+		"queries": "na nb nc nd ne nf ng nh ni nj nk nl nm",
+		"results": [
+		]
+	},
+	{
+		"queries": "na ne ni no nu",
+		"results": [
+		]
+	},
+	{
+		"queries": "nn no np nq nr ns nt nu nv nw nx ny nz",
+		"results": [
+		]
+	},
+	{
+		"queries": "o",
+		"results": [
+		]
+	},
+	{
+		"queries": "o p",
+		"results": [
+		]
+	},
+	{
+		"queries": "o p q r s t u",
+		"results": [
+		]
+	},
+	{
+		"queries": "oa ob oc od oe of og oh oi oj ok ol om",
+		"results": [
+		]
+	},
+	{
+		"queries": "oa oe oi oo ou",
+		"results": [
+		]
+	},
+	{
+		"queries": "on oo op oq or os ot ou ov ow ox oy oz",
+		"results": [
+		]
+	},
+	{
+		"queries": "p",
+		"results": [
+		]
+	},
+	{
+		"queries": "p q r",
+		"results": [
+		]
+	},
+	{
+		"queries": "p q r s t",
+		"results": [
+		]
+	},
+	{
+		"queries": "pa pb pc pd pe pf pg ph pi pj pk pl pm",
+		"results": [
+		]
+	},
+	{
+		"queries": "pa pe pi po pu",
+		"results": [
+		]
+	},
+	{
+		"queries": "pn po pp pq pr ps pt pu pv pw px py pz",
+		"results": [
+		]
+	},
+	{
+		"queries": "q",
+		"results": [
+		]
+	},
+	{
+		"queries": "q r",
+		"results": [
+		]
+	},
+	{
+		"queries": "q r s t",
+		"results": [
+		]
+	},
+	{
+		"queries": "q r s t u v w x",
+		"results": [
+		]
+	},
+	{
+		"queries": "qa qb qc qd qe qf qg qh qi qj qk ql qm",
+		"results": [
+		]
+	},
+	{
+		"queries": "qa qe qi qo qu",
+		"results": [
+		]
+	},
+	{
+		"queries": "qn qo qp qq qr qs qt qu qv qw qx qy qz",
+		"results": [
+		]
+	},
+	{
+		"queries": "r",
+		"results": [
+		]
+	},
+	{
+		"queries": "ra rb rc rd re rf rg rh ri rj rk rl rm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ra re ri ro ru",
+		"results": [
+		]
+	},
+	{
+		"queries": "rn ro rp rq rr rs rt ru rv rw rx ry rz",
+		"results": [
+		]
+	},
+	{
+		"queries": "s",
+		"results": [
+		]
+	},
+	{
+		"queries": "s t",
+		"results": [
+		]
+	},
+	{
+		"queries": "s t u",
+		"results": [
+		]
+	},
+	{
+		"queries": "s t u v w x",
+		"results": [
+		]
+	},
+	{
+		"queries": "sa sb sc sd se sf sg sh si sj sk sl sm",
+		"results": [
+		]
+	},
+	{
+		"queries": "sa se si so su",
+		"results": [
+		]
+	},
+	{
+		"queries": "sn so sp sq sr ss st su sv sw sx sy sz",
+		"results": [
+		]
+	},
+	{
+		"queries": "t",
+		"results": [
+		]
+	},
+	{
+		"queries": "ta tb tc td te tf tg th ti tj tk tl tm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ta te ti to tu",
+		"results": [
+		]
+	},
+	{
+		"queries": "tn to tp tq tr ts tt tu tv tw tx ty tz",
+		"results": [
+		]
+	},
+	{
+		"queries": "u",
+		"results": [
+		]
+	},
+	{
+		"queries": "u v",
+		"results": [
+		]
+	},
+	{
+		"queries": "u v w x",
+		"results": [
+		]
+	},
+	{
+		"queries": "u v w x y",
+		"results": [
+		]
+	},
+	{
+		"queries": "ua ub uc ud ue uf ug uh ui uj uk ul um",
+		"results": [
+		]
+	},
+	{
+		"queries": "ua ue ui uo uu",
+		"results": [
+		]
+	},
+	{
+		"queries": "un uo up uq ur us ut uu uv uw ux uy uz",
+		"results": [
+		]
+	},
+	{
+		"queries": "v",
+		"results": [
+		]
+	},
+	{
+		"queries": "v w x",
+		"results": [
+		]
+	},
+	{
+		"queries": "va vb vc vd ve vf vg vh vi vj vk vl vm",
+		"results": [
+		]
+	},
+	{
+		"queries": "va ve vi vo vu",
+		"results": [
+		]
+	},
+	{
+		"queries": "vn vo vp vq vr vs vt vu vv vw vx vy vz",
+		"results": [
+		]
+	},
+	{
+		"queries": "w",
+		"results": [
+		]
+	},
+	{
+		"queries": "w x",
+		"results": [
+		]
+	},
+	{
+		"queries": "wa wb wc wd we wf wg wh wi wj wk wl wm",
+		"results": [
+		]
+	},
+	{
+		"queries": "wa we wi wo wu",
+		"results": [
+		]
+	},
+	{
+		"queries": "wn wo wp wq wr ws wt wu wv ww wx wy wz",
+		"results": [
+		]
+	},
+	{
+		"queries": "x",
+		"results": [
+		]
+	},
+	{
+		"queries": "xa xb xc xd xe xf xg xh xi xj xk xl xm",
+		"results": [
+		]
+	},
+	{
+		"queries": "xa xe xi xo xu",
+		"results": [
+		]
+	},
+	{
+		"queries": "xn xo xp xq xr xs xt xu xv xw xx xy xz",
+		"results": [
+		]
+	},
+	{
+		"queries": "y",
+		"results": [
+		]
+	},
+	{
+		"queries": "y z",
+		"results": [
+		]
+	},
+	{
+		"queries": "ya yb yc yd ye yf yg yh yi yj yk yl ym",
+		"results": [
+		]
+	},
+	{
+		"queries": "ya ye yi yo yu",
+		"results": [
+		]
+	},
+	{
+		"queries": "yn yo yp yq yr ys yt yu yv yw yx yy yz",
+		"results": [
+		]
+	},
+	{
+		"queries": "z",
+		"results": [
+		]
+	},
+	{
+		"queries": "za zb zc zd ze zf zg zh zi zj zk zl zm",
+		"results": [
+		]
+	},
+	{
+		"queries": "za ze zi zo zu",
+		"results": [
+		]
+	},
+	{
+		"queries": "zn zo zp zq zr zs zt zu zv zw zx zy zz",
+		"results": [
+		]
+	}
+]

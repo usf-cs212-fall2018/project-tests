@@ -1,0 +1,3462 @@
+[
+	{
+		"queries": "a",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 458,
+				"score": 0.027432
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2684,
+				"score": 0.024992
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4066,
+				"score": 0.021701
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2535,
+				"score": 0.016111
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1312,
+				"score": 0.010549
+			}
+		]
+	},
+	{
+		"queries": "a b",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 471,
+				"score": 0.028210
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2693,
+				"score": 0.025075
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4071,
+				"score": 0.021727
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2546,
+				"score": 0.016181
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1315,
+				"score": 0.010573
+			}
+		]
+	},
+	{
+		"queries": "a b c",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 484,
+				"score": 0.028989
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2700,
+				"score": 0.025141
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4076,
+				"score": 0.021754
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2588,
+				"score": 0.016448
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1320,
+				"score": 0.010613
+			}
+		]
+	},
+	{
+		"queries": "a b c d",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 490,
+				"score": 0.029348
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2706,
+				"score": 0.025196
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4079,
+				"score": 0.021770
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2590,
+				"score": 0.016461
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1324,
+				"score": 0.010646
+			}
+		]
+	},
+	{
+		"queries": "a b c d e",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 516,
+				"score": 0.030906
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2730,
+				"score": 0.025420
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4101,
+				"score": 0.021887
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2624,
+				"score": 0.016677
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1346,
+				"score": 0.010823
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 529,
+				"score": 0.031684
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2741,
+				"score": 0.025522
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4112,
+				"score": 0.021946
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2680,
+				"score": 0.017033
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1357,
+				"score": 0.010911
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 530,
+				"score": 0.031744
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2744,
+				"score": 0.025550
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4113,
+				"score": 0.021951
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2681,
+				"score": 0.017039
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1361,
+				"score": 0.010943
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g h",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 530,
+				"score": 0.031744
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2749,
+				"score": 0.025597
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4113,
+				"score": 0.021951
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2691,
+				"score": 0.017103
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1361,
+				"score": 0.010943
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g h i",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 10530,
+				"score": 0.056200
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 5744,
+				"score": 0.053484
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 577,
+				"score": 0.034559
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4219,
+				"score": 0.033923
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3682,
+				"score": 0.023401
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g h i j",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 10540,
+				"score": 0.056253
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 5745,
+				"score": 0.053494
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 577,
+				"score": 0.034559
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4219,
+				"score": 0.033923
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3691,
+				"score": 0.023458
+			}
+		]
+	},
+	{
+		"queries": "aa ab ac ad ae af ag ah ai aj ak al am",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 274,
+				"score": 0.002203
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 222,
+				"score": 0.002067
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 314,
+				"score": 0.001676
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 87,
+				"score": 0.000553
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 7,
+				"score": 0.000419
+			}
+		]
+	},
+	{
+		"queries": "aa ae ai ao au",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "aa ee ii oo uu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 7,
+				"score": 0.000419
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "an ao ap aq ar as at au av aw ax ay az",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3890,
+				"score": 0.020761
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1986,
+				"score": 0.018492
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2797,
+				"score": 0.017776
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 278,
+				"score": 0.016651
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1446,
+				"score": 0.011627
+			}
+		]
+	},
+	{
+		"queries": "b",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 13,
+				"score": 0.000779
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 9,
+				"score": 0.000084
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 11,
+				"score": 0.000070
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 3,
+				"score": 0.000024
+			}
+		]
+	},
+	{
+		"queries": "ba bb bc bd be bf bg bh bi bj bk bl bm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2075,
+				"score": 0.013188
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 165,
+				"score": 0.009883
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1309,
+				"score": 0.006986
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 692,
+				"score": 0.006443
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 525,
+				"score": 0.004221
+			}
+		]
+	},
+	{
+		"queries": "ba be bi bo bu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2074,
+				"score": 0.013181
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 165,
+				"score": 0.009883
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1309,
+				"score": 0.006986
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 692,
+				"score": 0.006443
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 525,
+				"score": 0.004221
+			}
+		]
+	},
+	{
+		"queries": "bn bo bp bq br bs bt bu bv bw bx by bz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 157,
+				"score": 0.009403
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1373,
+				"score": 0.008726
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 815,
+				"score": 0.004350
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 502,
+				"score": 0.004036
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 368,
+				"score": 0.003427
+			}
+		]
+	},
+	{
+		"queries": "c",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 13,
+				"score": 0.000779
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 42,
+				"score": 0.000267
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 7,
+				"score": 0.000065
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 5,
+				"score": 0.000040
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			}
+		]
+	},
+	{
+		"queries": "c d",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 19,
+				"score": 0.001138
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 44,
+				"score": 0.000280
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 13,
+				"score": 0.000121
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 9,
+				"score": 0.000072
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 8,
+				"score": 0.000043
+			}
+		]
+	},
+	{
+		"queries": "ca cb cc cd ce cf cg ch ci cj ck cl cm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ca ce ci co cu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "cn co cp cq cr cs ct cu cv cw cx cy cz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "d",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 6,
+				"score": 0.000359
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 6,
+				"score": 0.000056
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2,
+				"score": 0.000013
+			}
+		]
+	},
+	{
+		"queries": "d e f",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 45,
+				"score": 0.002695
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 92,
+				"score": 0.000585
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 41,
+				"score": 0.000382
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 37,
+				"score": 0.000297
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 36,
+				"score": 0.000192
+			}
+		]
+	},
+	{
+		"queries": "da db dc dd de df dg dh di dj dk dl dm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 28,
+				"score": 0.000178
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 6,
+				"score": 0.000056
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "da de di do du",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 328,
+				"score": 0.003054
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 510,
+				"score": 0.002722
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 45,
+				"score": 0.002695
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 271,
+				"score": 0.002179
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 288,
+				"score": 0.001830
+			}
+		]
+	},
+	{
+		"queries": "dn do dp dq dr ds dt du dv dw dx dy dz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 354,
+				"score": 0.003296
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 46,
+				"score": 0.002755
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 512,
+				"score": 0.002733
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 272,
+				"score": 0.002187
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 307,
+				"score": 0.001951
+			}
+		]
+	},
+	{
+		"queries": "e",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 26,
+				"score": 0.001557
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 24,
+				"score": 0.000223
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 34,
+				"score": 0.000216
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 22,
+				"score": 0.000177
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 22,
+				"score": 0.000117
+			}
+		]
+	},
+	{
+		"queries": "e f",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 39,
+				"score": 0.002336
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 90,
+				"score": 0.000572
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 35,
+				"score": 0.000326
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 33,
+				"score": 0.000265
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 33,
+				"score": 0.000176
+			}
+		]
+	},
+	{
+		"queries": "e f g h",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 40,
+				"score": 0.002396
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 101,
+				"score": 0.000642
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 43,
+				"score": 0.000400
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 37,
+				"score": 0.000297
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 34,
+				"score": 0.000181
+			}
+		]
+	},
+	{
+		"queries": "ea eb ec ed ee ef eg eh ei ej ek el em",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 57,
+				"score": 0.000304
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "ea ee ei eo eu",
+		"results": [
+		]
+	},
+	{
+		"queries": "en eo ep eq er es et eu ev ew ex ey ez",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			}
+		]
+	},
+	{
+		"queries": "f",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 13,
+				"score": 0.000779
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 56,
+				"score": 0.000356
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 11,
+				"score": 0.000102
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 11,
+				"score": 0.000088
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 11,
+				"score": 0.000059
+			}
+		]
+	},
+	{
+		"queries": "f g h i j",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6439,
+				"score": 0.034366
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3015,
+				"score": 0.028074
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2873,
+				"score": 0.023100
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1067,
+				"score": 0.006781
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 61,
+				"score": 0.003654
+			}
+		]
+	},
+	{
+		"queries": "fa fb fc fd fe ff fg fh fi fj fk fl fm",
+		"results": [
+		]
+	},
+	{
+		"queries": "fa fe fi fo fu",
+		"results": [
+		]
+	},
+	{
+		"queries": "fn fo fp fq fr fs ft fu fv fw fx fy fz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "g",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1,
+				"score": 0.000006
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "g h",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 8,
+				"score": 0.000074
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 11,
+				"score": 0.000070
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "g h i",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6418,
+				"score": 0.034253
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3003,
+				"score": 0.027962
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2862,
+				"score": 0.023012
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1002,
+				"score": 0.006368
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 48,
+				"score": 0.002875
+			}
+		]
+	},
+	{
+		"queries": "g h i j k l",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6429,
+				"score": 0.034312
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3026,
+				"score": 0.028176
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2863,
+				"score": 0.023020
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1016,
+				"score": 0.006457
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 49,
+				"score": 0.002935
+			}
+		]
+	},
+	{
+		"queries": "ga gb gc gd ge gf gg gh gi gj gk gl gm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ga ge gi go gu",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 498,
+				"score": 0.002658
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 129,
+				"score": 0.001201
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 141,
+				"score": 0.001134
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 37,
+				"score": 0.000235
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			}
+		]
+	},
+	{
+		"queries": "gn go gp gq gr gs gt gu gv gw gx gy gz",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 498,
+				"score": 0.002658
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 129,
+				"score": 0.001201
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 142,
+				"score": 0.001142
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 37,
+				"score": 0.000235
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			}
+		]
+	},
+	{
+		"queries": "h",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 10,
+				"score": 0.000064
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 5,
+				"score": 0.000047
+			}
+		]
+	},
+	{
+		"queries": "h i j k l m n",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6429,
+				"score": 0.034312
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3023,
+				"score": 0.028148
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2859,
+				"score": 0.022988
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1054,
+				"score": 0.006699
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 50,
+				"score": 0.002995
+			}
+		]
+	},
+	{
+		"queries": "ha hb hc hd he hf hg hh hi hj hk hl hm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1486,
+				"score": 0.013837
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2212,
+				"score": 0.011806
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 135,
+				"score": 0.008086
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 298,
+				"score": 0.002396
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 165,
+				"score": 0.001049
+			}
+		]
+	},
+	{
+		"queries": "ha he hi ho hu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1486,
+				"score": 0.013837
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2212,
+				"score": 0.011806
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 135,
+				"score": 0.008086
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 299,
+				"score": 0.002404
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 165,
+				"score": 0.001049
+			}
+		]
+	},
+	{
+		"queries": "hn ho hp hq hr hs ht hu hv hw hx hy hz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "i",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6417,
+				"score": 0.034248
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2995,
+				"score": 0.027887
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2858,
+				"score": 0.022980
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 991,
+				"score": 0.006298
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 47,
+				"score": 0.002815
+			}
+		]
+	},
+	{
+		"queries": "i j",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6427,
+				"score": 0.034301
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2996,
+				"score": 0.027897
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2858,
+				"score": 0.022980
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1000,
+				"score": 0.006356
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 47,
+				"score": 0.002815
+			}
+		]
+	},
+	{
+		"queries": "i j k l",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6428,
+				"score": 0.034307
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3018,
+				"score": 0.028102
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2859,
+				"score": 0.022988
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1005,
+				"score": 0.006387
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 48,
+				"score": 0.002875
+			}
+		]
+	},
+	{
+		"queries": "i j k l m n o p",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6496,
+				"score": 0.034670
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3021,
+				"score": 0.028130
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 3426,
+				"score": 0.027547
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1058,
+				"score": 0.006724
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 53,
+				"score": 0.003174
+			}
+		]
+	},
+	{
+		"queries": "ia ib ic id ie if ig ih ii ij ik il im",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 82,
+				"score": 0.004911
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 852,
+				"score": 0.004547
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 436,
+				"score": 0.002771
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 290,
+				"score": 0.002700
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 170,
+				"score": 0.001367
+			}
+		]
+	},
+	{
+		"queries": "ia ie ii io iu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 7,
+				"score": 0.000419
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 4,
+				"score": 0.000025
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "in io ip iq ir is it iu iv iw ix iy iz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 909,
+				"score": 0.054444
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4800,
+				"score": 0.044694
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 6982,
+				"score": 0.044374
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6652,
+				"score": 0.035502
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4076,
+				"score": 0.032773
+			}
+		]
+	},
+	{
+		"queries": "j",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 9,
+				"score": 0.000057
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 10,
+				"score": 0.000053
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "j k l",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 23,
+				"score": 0.000214
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 14,
+				"score": 0.000089
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 11,
+				"score": 0.000059
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "j k l m n o p q r",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 568,
+				"score": 0.004567
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 8,
+				"score": 0.000479
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 74,
+				"score": 0.000470
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 80,
+				"score": 0.000427
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 27,
+				"score": 0.000251
+			}
+		]
+	},
+	{
+		"queries": "ja jb jc jd je jf jg jh ji jj jk jl jm",
+		"results": [
+		]
+	},
+	{
+		"queries": "ja je ji jo ju",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 8,
+				"score": 0.000043
+			}
+		]
+	},
+	{
+		"queries": "jn jo jp jq jr js jt ju jv jw jx jy jz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 9,
+				"score": 0.000048
+			}
+		]
+	},
+	{
+		"queries": "k",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 21,
+				"score": 0.000196
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1,
+				"score": 0.000006
+			}
+		]
+	},
+	{
+		"queries": "k l",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 22,
+				"score": 0.000205
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 5,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "k l m n o",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 567,
+				"score": 0.004559
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 65,
+				"score": 0.000347
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 49,
+				"score": 0.000311
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 23,
+				"score": 0.000214
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			}
+		]
+	},
+	{
+		"queries": "k l m n o p q r s t",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 572,
+				"score": 0.004599
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 13,
+				"score": 0.000779
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 68,
+				"score": 0.000432
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 43,
+				"score": 0.000400
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 74,
+				"score": 0.000395
+			}
+		]
+	},
+	{
+		"queries": "ka kb kc kd ke kf kg kh ki kj kk kl km",
+		"results": [
+		]
+	},
+	{
+		"queries": "ka ke ki ko ku",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			}
+		]
+	},
+	{
+		"queries": "kn ko kp kq kr ks kt ku kv kw kx ky kz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			}
+		]
+	},
+	{
+		"queries": "l",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 4,
+				"score": 0.000025
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "la lb lc ld le lf lg lh li lj lk ll lm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 14,
+				"score": 0.000089
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "la le li lo lu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 45,
+				"score": 0.000362
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 14,
+				"score": 0.000089
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "ln lo lp lq lr ls lt lu lv lw lx ly lz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 45,
+				"score": 0.000362
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "m",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 35,
+				"score": 0.000222
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "m n",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 39,
+				"score": 0.000248
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "m n o",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 566,
+				"score": 0.004551
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 64,
+				"score": 0.000342
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 44,
+				"score": 0.000280
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "m n o p",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 567,
+				"score": 0.004559
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 68,
+				"score": 0.000363
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 53,
+				"score": 0.000337
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			}
+		]
+	},
+	{
+		"queries": "m n o p q r",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 567,
+				"score": 0.004559
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 7,
+				"score": 0.000419
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 60,
+				"score": 0.000381
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 69,
+				"score": 0.000368
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			}
+		]
+	},
+	{
+		"queries": "ma mb mc md me mf mg mh mi mj mk ml mm",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1981,
+				"score": 0.010573
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 993,
+				"score": 0.007984
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 634,
+				"score": 0.005903
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 156,
+				"score": 0.000991
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 9,
+				"score": 0.000539
+			}
+		]
+	},
+	{
+		"queries": "ma me mi mo mu",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1982,
+				"score": 0.010578
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 993,
+				"score": 0.007984
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 634,
+				"score": 0.005903
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 154,
+				"score": 0.000979
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 9,
+				"score": 0.000539
+			}
+		]
+	},
+	{
+		"queries": "mn mo mp mq mr ms mt mu mv mw mx my mz",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2776,
+				"score": 0.014816
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1280,
+				"score": 0.011919
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1003,
+				"score": 0.008065
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 266,
+				"score": 0.001691
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 28,
+				"score": 0.001677
+			}
+		]
+	},
+	{
+		"queries": "n",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 4,
+				"score": 0.000025
+			}
+		]
+	},
+	{
+		"queries": "na nb nc nd ne nf ng nh ni nj nk nl nm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "na ne ni no nu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 398,
+				"score": 0.003706
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 642,
+				"score": 0.003426
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 42,
+				"score": 0.002516
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 280,
+				"score": 0.002251
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 333,
+				"score": 0.002116
+			}
+		]
+	},
+	{
+		"queries": "nn no np nq nr ns nt nu nv nw nx ny nz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 398,
+				"score": 0.003706
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 642,
+				"score": 0.003426
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 42,
+				"score": 0.002516
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 280,
+				"score": 0.002251
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 333,
+				"score": 0.002116
+			}
+		]
+	},
+	{
+		"queries": "o",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 566,
+				"score": 0.004551
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 63,
+				"score": 0.000336
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 5,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "o p",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 567,
+				"score": 0.004559
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 67,
+				"score": 0.000358
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 14,
+				"score": 0.000089
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			}
+		]
+	},
+	{
+		"queries": "o p q r s t u",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 572,
+				"score": 0.004599
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 10,
+				"score": 0.000599
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 75,
+				"score": 0.000400
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 22,
+				"score": 0.000205
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 24,
+				"score": 0.000153
+			}
+		]
+	},
+	{
+		"queries": "oa ob oc od oe of og oh oi oj ok ol om",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 7966,
+				"score": 0.050628
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 708,
+				"score": 0.042405
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4374,
+				"score": 0.035169
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2865,
+				"score": 0.026677
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4575,
+				"score": 0.024417
+			}
+		]
+	},
+	{
+		"queries": "oa oe oi oo ou",
+		"results": [
+		]
+	},
+	{
+		"queries": "on oo op oq or os ot ou ov ow ox oy oz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 301,
+				"score": 0.018028
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2833,
+				"score": 0.018005
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1757,
+				"score": 0.014127
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2044,
+				"score": 0.010909
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 666,
+				"score": 0.006201
+			}
+		]
+	},
+	{
+		"queries": "p",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 9,
+				"score": 0.000057
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4,
+				"score": 0.000021
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "p q r",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 16,
+				"score": 0.000102
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "p q r s t",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 10,
+				"score": 0.000599
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 20,
+				"score": 0.000186
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 19,
+				"score": 0.000121
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 9,
+				"score": 0.000048
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 5,
+				"score": 0.000040
+			}
+		]
+	},
+	{
+		"queries": "pa pb pc pd pe pf pg ph pi pj pk pl pm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 10,
+				"score": 0.000093
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 6,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1,
+				"score": 0.000006
+			}
+		]
+	},
+	{
+		"queries": "pa pe pi po pu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 9,
+				"score": 0.000084
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "pn po pp pq pr ps pt pu pv pw px py pz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "q",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2,
+				"score": 0.000013
+			}
+		]
+	},
+	{
+		"queries": "q r",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 7,
+				"score": 0.000044
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "q r s t",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 7,
+				"score": 0.000419
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 18,
+				"score": 0.000168
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 10,
+				"score": 0.000064
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			}
+		]
+	},
+	{
+		"queries": "q r s t u v w x",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 12,
+				"score": 0.000719
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 23,
+				"score": 0.000214
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 25,
+				"score": 0.000159
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 8,
+				"score": 0.000064
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 10,
+				"score": 0.000053
+			}
+		]
+	},
+	{
+		"queries": "qa qb qc qd qe qf qg qh qi qj qk ql qm",
+		"results": [
+		]
+	},
+	{
+		"queries": "qa qe qi qo qu",
+		"results": [
+		]
+	},
+	{
+		"queries": "qn qo qp qq qr qs qt qu qv qw qx qy qz",
+		"results": [
+		]
+	},
+	{
+		"queries": "r",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 5,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "ra rb rc rd re rf rg rh ri rj rk rl rm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			}
+		]
+	},
+	{
+		"queries": "ra re ri ro ru",
+		"results": [
+		]
+	},
+	{
+		"queries": "rn ro rp rq rr rs rt ru rv rw rx ry rz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			}
+		]
+	},
+	{
+		"queries": "s",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 4,
+				"score": 0.000240
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 15,
+				"score": 0.000140
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 3,
+				"score": 0.000024
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "s t",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 17,
+				"score": 0.000158
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4,
+				"score": 0.000021
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3,
+				"score": 0.000019
+			}
+		]
+	},
+	{
+		"queries": "s t u",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 18,
+				"score": 0.000168
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 5,
+				"score": 0.000040
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 7,
+				"score": 0.000037
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3,
+				"score": 0.000019
+			}
+		]
+	},
+	{
+		"queries": "s t u v w x",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 10,
+				"score": 0.000599
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 22,
+				"score": 0.000205
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 18,
+				"score": 0.000114
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 8,
+				"score": 0.000064
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 9,
+				"score": 0.000048
+			}
+		]
+	},
+	{
+		"queries": "sa sb sc sd se sf sg sh si sj sk sl sm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3,
+				"score": 0.000019
+			}
+		]
+	},
+	{
+		"queries": "sa se si so su",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 786,
+				"score": 0.004195
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 447,
+				"score": 0.004162
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 515,
+				"score": 0.003273
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 249,
+				"score": 0.002002
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 32,
+				"score": 0.001917
+			}
+		]
+	},
+	{
+		"queries": "sn so sp sq sr ss st su sv sw sx sy sz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 529,
+				"score": 0.004926
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 786,
+				"score": 0.004195
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 530,
+				"score": 0.003368
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 256,
+				"score": 0.002058
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 33,
+				"score": 0.001977
+			}
+		]
+	},
+	{
+		"queries": "t",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 1,
+				"score": 0.000060
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "ta tb tc td te tf tg th ti tj tk tl tm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 8,
+				"score": 0.000074
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 6,
+				"score": 0.000048
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1,
+				"score": 0.000006
+			}
+		]
+	},
+	{
+		"queries": "ta te ti to tu",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5131,
+				"score": 0.027385
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2761,
+				"score": 0.025709
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 400,
+				"score": 0.023958
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3678,
+				"score": 0.023376
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2230,
+				"score": 0.017930
+			}
+		]
+	},
+	{
+		"queries": "tn to tp tq tr ts tt tu tv tw tx ty tz",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5131,
+				"score": 0.027385
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2761,
+				"score": 0.025709
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 400,
+				"score": 0.023958
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 3678,
+				"score": 0.023376
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2230,
+				"score": 0.017930
+			}
+		]
+	},
+	{
+		"queries": "u",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 1,
+				"score": 0.000009
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "u v",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 3,
+				"score": 0.000028
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 3,
+				"score": 0.000024
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4,
+				"score": 0.000021
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2,
+				"score": 0.000013
+			}
+		]
+	},
+	{
+		"queries": "u v w x",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 15,
+				"score": 0.000095
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 5,
+				"score": 0.000047
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			}
+		]
+	},
+	{
+		"queries": "u v w x y",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 15,
+				"score": 0.000095
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 5,
+				"score": 0.000047
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 5,
+				"score": 0.000027
+			}
+		]
+	},
+	{
+		"queries": "ua ub uc ud ue uf ug uh ui uj uk ul um",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 4,
+				"score": 0.000021
+			}
+		]
+	},
+	{
+		"queries": "ua ue ui uo uu",
+		"results": [
+		]
+	},
+	{
+		"queries": "un uo up uq ur us ut uu uv uw ux uy uz",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 868,
+				"score": 0.004633
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 492,
+				"score": 0.004581
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 293,
+				"score": 0.002356
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 27,
+				"score": 0.001617
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 204,
+				"score": 0.001297
+			}
+		]
+	},
+	{
+		"queries": "v",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2,
+				"score": 0.000013
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "v w x",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 5,
+				"score": 0.000299
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 15,
+				"score": 0.000095
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 3,
+				"score": 0.000024
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "va vb vc vd ve vf vg vh vi vj vk vl vm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 3,
+				"score": 0.000180
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1,
+				"score": 0.000006
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "va ve vi vo vu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 2,
+				"score": 0.000120
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1,
+				"score": 0.000006
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "vn vo vp vq vr vs vt vu vv vw vx vy vz",
+		"results": [
+		]
+	},
+	{
+		"queries": "w",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 11,
+				"score": 0.000070
+			}
+		]
+	},
+	{
+		"queries": "w x",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 13,
+				"score": 0.000083
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "wa wb wc wd we wf wg wh wi wj wk wl wm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1162,
+				"score": 0.007385
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 532,
+				"score": 0.004954
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 774,
+				"score": 0.004131
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 331,
+				"score": 0.002661
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 24,
+				"score": 0.001437
+			}
+		]
+	},
+	{
+		"queries": "wa we wi wo wu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 1162,
+				"score": 0.007385
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 532,
+				"score": 0.004954
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 774,
+				"score": 0.004131
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 331,
+				"score": 0.002661
+			},
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 24,
+				"score": 0.001437
+			}
+		]
+	},
+	{
+		"queries": "wn wo wp wq wr ws wt wu wv ww wx wy wz",
+		"results": [
+		]
+	},
+	{
+		"queries": "x",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 2,
+				"score": 0.000013
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "xa xb xc xd xe xf xg xh xi xj xk xl xm",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "xa xe xi xo xu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "xn xo xp xq xr xs xt xu xv xw xx xy xz",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 2,
+				"score": 0.000016
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			}
+		]
+	},
+	{
+		"queries": "y",
+		"results": [
+		]
+	},
+	{
+		"queries": "y z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 5,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "ya yb yc yd ye yf yg yh yi yj yk yl ym",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 32,
+				"score": 0.000257
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			}
+		]
+	},
+	{
+		"queries": "ya ye yi yo yu",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 32,
+				"score": 0.000257
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			}
+		]
+	},
+	{
+		"queries": "yn yo yp yq yr ys yt yu yv yw yx yy yz",
+		"results": [
+		]
+	},
+	{
+		"queries": "z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 5,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 1,
+				"score": 0.000005
+			}
+		]
+	},
+	{
+		"queries": "za zb zc zd ze zf zg zh zi zj zk zl zm",
+		"results": [
+		]
+	},
+	{
+		"queries": "za ze zi zo zu",
+		"results": [
+		]
+	},
+	{
+		"queries": "zn zo zp zq zr zs zt zu zv zw zx zy zz",
+		"results": [
+		]
+	}
+]

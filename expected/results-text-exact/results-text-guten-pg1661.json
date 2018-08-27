@@ -1,0 +1,52 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			}
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 32,
+				"score": 0.000298
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 21,
+				"score": 0.000196
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+		]
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"queries": "lori",
+		"results": [
+			{
+				"where": "text/simple/animals_double.text",
+				"count": 6,
+				"score": 0.272727
+			},
+			{
+				"where": "text/simple/animals.text",
+				"count": 3,
+				"score": 0.272727
+			},
+			{
+				"where": "text/simple/animals_copy.text",
+				"count": 3,
+				"score": 0.272727
+			}
+		]
+	},
+	{
+		"queries": "narwhal tarsier",
+		"results": [
+			{
+				"where": "text/simple/animals_double.text",
+				"count": 4,
+				"score": 0.181818
+			},
+			{
+				"where": "text/simple/animals.text",
+				"count": 2,
+				"score": 0.181818
+			},
+			{
+				"where": "text/simple/animals_copy.text",
+				"count": 2,
+				"score": 0.181818
+			}
+		]
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 31,
+				"score": 0.000165
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			}
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 24,
+				"score": 0.000128
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+		]
+	}
+]

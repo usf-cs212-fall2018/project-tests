@@ -1,0 +1,137 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 4,
+				"score": 0.000037
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 4,
+				"score": 0.000032
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			}
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 30,
+				"score": 0.001797
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 32,
+				"score": 0.000298
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 30,
+				"score": 0.000241
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 30,
+				"score": 0.000191
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 31,
+				"score": 0.000165
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 6,
+				"score": 0.000038
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 3,
+				"score": 0.000016
+			}
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 16,
+				"score": 0.000958
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 34,
+				"score": 0.000273
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 21,
+				"score": 0.000196
+			},
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 22,
+				"score": 0.000140
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 24,
+				"score": 0.000128
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 7,
+				"score": 0.000044
+			},
+			{
+				"where": "text/gutenberg/pg1661.txt",
+				"count": 2,
+				"score": 0.000019
+			},
+			{
+				"where": "text/gutenberg/1400-0.txt",
+				"count": 2,
+				"score": 0.000011
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 1,
+				"score": 0.000008
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 20,
+				"score": 0.000127
+			},
+			{
+				"where": "text/gutenberg/pg1322.txt",
+				"count": 5,
+				"score": 0.000040
+			}
+		]
+	}
+]

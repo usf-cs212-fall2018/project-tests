@@ -1,0 +1,57 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 30,
+				"score": 0.000191
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 6,
+				"score": 0.000038
+			}
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 22,
+				"score": 0.000140
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 7,
+				"score": 0.000044
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+			{
+				"where": "text/gutenberg/pg1228.txt",
+				"count": 20,
+				"score": 0.000127
+			}
+		]
+	}
+]

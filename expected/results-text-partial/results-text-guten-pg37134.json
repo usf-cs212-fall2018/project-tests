@@ -1,0 +1,47 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 87,
+				"score": 0.005211
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 16,
+				"score": 0.000958
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "text/gutenberg/pg37134.txt",
+				"count": 147,
+				"score": 0.008805
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+		]
+	}
+]
