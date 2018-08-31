@@ -21,8 +21,21 @@ public class StressTest {
 	// timeout PER RUN (not for all runs)
 	private static final Duration TIMEOUT = Duration.ofMinutes(1);
 
-	// used to prevent deadcode elimination
-	public int result;
+	// not used
+	public int blackhole;
+
+	public int runDriver(String[] args) {
+		int result = 0;
+
+		try {
+			Driver.main(args);
+		}
+		catch (Exception e) {
+			result = -1;
+		}
+
+		return result;
+	}
 
 	@RepeatedTest(5)
 	public void testIndexConsistency() {
@@ -66,16 +79,39 @@ public class StressTest {
 		String[] args1 = { "-path", path, "-threads", String.valueOf(1) };
 		String[] args2 = { "-path", path, "-threads", String.valueOf(THREADS) };
 
-		double singleAverage = benchmark(args1) / 1000000000.0;
-		double threadAverage = benchmark(args2) / 1000000000.0;
+		long[] singleRuns = benchmark(args1);
+		long[] threadRuns = benchmark(args2);
+
+		long singleTotal = 0;
+		long threadTotal = 0;
+
+		// print report of runs
+		System.out.println("Indexing Benchmark:");
+		System.out.printf("%-6s    %10s    %10s%n", "Warmup", "Single", "Multi");
+		for (int i = 0; i < WARM_RUNS; i++) {
+			System.out.printf("%-6d    %10.6f    %10.6f%n",
+					i + 1,
+					singleRuns[i] / 1000000000.0,
+					threadRuns[i] / 1000000000.0);
+		}
+
+		System.out.printf("%-6s    %10s    %10s%n", "Timed", "Single", "Multi");
+		for (int i = WARM_RUNS; i < WARM_RUNS + TIME_RUNS; i++) {
+			singleTotal += singleRuns[i];
+			threadTotal += threadRuns[i];
+			System.out.printf("%-6d    %10.6f    %10.6f%n",
+					i + 1,
+					singleRuns[i] / 1000000000.0,
+					threadRuns[i] / 1000000000.0);
+		}
+
+		double singleAverage = (double) singleTotal / TIME_RUNS;
+		double threadAverage = (double) threadTotal / TIME_RUNS;
 
 		System.out.println();
-		System.out.println("Indexing Benchmark:");
-		System.out.printf("%d Threads: %.4f s%n", 1, singleAverage);
-		System.out.printf("%d Threads: %.4f s%n", THREADS, threadAverage);
-		System.out.printf("  Speedup: %.4f %n%n", singleAverage / threadAverage);
-
-		assertTrue((singleAverage - threadAverage) > 0);
+		System.out.printf("%d Threads: %10.6f s%n", 1, singleAverage / 1000000000.0);
+		System.out.printf("%d Threads: %10.6f s%n", THREADS, threadAverage / 1000000000.0);
+		System.out.printf("  Speedup: %10.6f %n%n", singleAverage / threadAverage);
 	}
 
 	@Test
@@ -86,31 +122,60 @@ public class StressTest {
 		String[] args1 = { "-path", path, "-search", query, "-threads", String.valueOf(1) };
 		String[] args2 = { "-path", path, "-search", query, "-threads", String.valueOf(THREADS) };
 
-		double singleAverage = benchmark(args1) / 1000000000.0;
-		double threadAverage = benchmark(args2) / 1000000000.0;
+		long[] singleRuns = benchmark(args1);
+		long[] threadRuns = benchmark(args2);
+
+		long singleTotal = 0;
+		long threadTotal = 0;
+
+		// print report of runs
+		System.out.println("Searching Benchmark:");
+		System.out.printf("%-6s    %10s    %10s%n", "Warmup", "Single", "Multi");
+		for (int i = 0; i < WARM_RUNS; i++) {
+			System.out.printf("%-6d    %10.6f    %10.6f%n",
+					i + 1,
+					singleRuns[i] / 1000000000.0,
+					threadRuns[i] / 1000000000.0);
+		}
+
+		System.out.printf("%-6s    %10s    %10s%n", "Timed", "Single", "Multi");
+		for (int i = WARM_RUNS; i < WARM_RUNS + TIME_RUNS; i++) {
+			singleTotal += singleRuns[i];
+			threadTotal += threadRuns[i];
+			System.out.printf("%-6d    %10.6f    %10.6f%n",
+					i + 1,
+					singleRuns[i] / 1000000000.0,
+					threadRuns[i] / 1000000000.0);
+		}
+
+		double singleAverage = (double) singleTotal / TIME_RUNS;
+		double threadAverage = (double) threadTotal / TIME_RUNS;
 
 		System.out.println();
-		System.out.println("Searching Benchmark:");
-		System.out.printf("%d Threads: %.4f s%n", 1, singleAverage);
-		System.out.printf("%d Threads: %.4f s%n", THREADS, threadAverage);
-		System.out.printf("  Speedup: %.4f %n%n", singleAverage / threadAverage);
+		System.out.printf("%d Threads: %10.6f s%n", 1, singleAverage / 1000000000.0);
+		System.out.printf("%d Threads: %10.6f s%n", THREADS, threadAverage / 1000000000.0);
+		System.out.printf("  Speedup: %10.6f %n%n", singleAverage / threadAverage);
 
-		assertTrue((singleAverage - threadAverage) > 0);
+		assertTrue(singleAverage - threadAverage > 0);
 	}
 
-	private double benchmark(String[] args) {
-		long total = 0;
+	private long[] benchmark(String[] args) {
 		long start = 0;
+		long[] runs = new long[WARM_RUNS + TIME_RUNS];
+
+		blackhole = 0;
 
 		try {
 			for (int i = 0; i < WARM_RUNS; i++) {
-				Driver.main(args);
+				start = System.nanoTime();
+				blackhole += runDriver(args);
+				runs[i] = System.nanoTime() - start;
 			}
 
 			for (int i = 0; i < TIME_RUNS; i++) {
 				start = System.nanoTime();
-				result = Driver.main(args);
-				total += System.nanoTime() - start;
+				blackhole += runDriver(args);
+				runs[i + WARM_RUNS] = System.nanoTime() - start;
 			}
 		}
 		catch (Exception e) {
@@ -122,7 +187,7 @@ public class StressTest {
 			fail(debug);
 		}
 
-		return (double) total / TIME_RUNS;
+		return runs;
 	}
 
 }
