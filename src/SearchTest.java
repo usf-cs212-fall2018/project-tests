@@ -177,7 +177,7 @@ public class SearchTest {
 		public Stream<DynamicTest> testSimple() {
 			Path path = Paths.get("text", "simple");
 			String[][] tests = {
-					{ "words-words", "words.txt", path.resolve("words.text").toString() },
+					{ "words-words", "words.txt", path.resolve("words.tExT").toString() },
 					{ "animals-animals", "animals.txt", path.resolve("animals.text").toString() },
 					{ "animals-simple", "animals.txt", path.toString() },
 					{ "simple-simple", "simple.txt", path.toString() },
