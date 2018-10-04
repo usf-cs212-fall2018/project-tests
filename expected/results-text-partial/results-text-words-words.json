@@ -3,7 +3,7 @@
 		"queries": "observ",
 		"results": [
 			{
-				"where": "text/simple/words.text",
+				"where": "text/simple/words.tExT",
 				"count": 13,
 				"score": 0.541667
 			}
@@ -13,7 +13,7 @@
 		"queries": "perform",
 		"results": [
 			{
-				"where": "text/simple/words.text",
+				"where": "text/simple/words.tExT",
 				"count": 8,
 				"score": 0.333333
 			}
