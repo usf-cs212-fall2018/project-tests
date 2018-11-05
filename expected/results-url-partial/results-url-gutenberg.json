@@ -1,0 +1,112 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"count": 3,
+				"score": 0.000107
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"count": 1,
+				"score": 0.000074
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"count": 1,
+				"score": 0.000055
+			}
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/31516-h/31516-h.htm",
+				"count": 87,
+				"score": 0.021035
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"count": 87,
+				"score": 0.006416
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"count": 87,
+				"score": 0.004771
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"count": 87,
+				"score": 0.003105
+			}
+		]
+	},
+	{
+		"queries": "nowher",
+		"results": [
+		]
+	},
+	{
+		"queries": "provid",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/31516-h/31516-h.htm",
+				"count": 15,
+				"score": 0.003627
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"count": 15,
+				"score": 0.001106
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"count": 15,
+				"score": 0.000823
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"count": 16,
+				"score": 0.000571
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"count": 407,
+				"score": 0.022317
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"count": 294,
+				"score": 0.021681
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/31516-h/31516-h.htm",
+				"count": 85,
+				"score": 0.020551
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"count": 458,
+				"score": 0.016347
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"count": 4,
+				"score": 0.000295
+			}
+		]
+	}
+]

@@ -1,0 +1,6932 @@
+[
+	{
+		"queries": "a",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 786,
+				"score": 0.198485
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 498,
+				"score": 0.163279
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 40,
+				"score": 0.117994
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 71,
+				"score": 0.091026
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 468,
+				"score": 0.080110
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 12,
+				"score": 0.065574
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 5,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 498,
+				"score": 0.054713
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			}
+		]
+	},
+	{
+		"queries": "a b",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 958,
+				"score": 0.241919
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 629,
+				"score": 0.206230
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 51,
+				"score": 0.150442
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 95,
+				"score": 0.121795
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 5,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 590,
+				"score": 0.100993
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 18,
+				"score": 0.098361
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 7,
+				"score": 0.079545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 532,
+				"score": 0.058449
+			}
+		]
+	},
+	{
+		"queries": "a b c",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1172,
+				"score": 0.295960
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 764,
+				"score": 0.250492
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 167,
+				"score": 0.214103
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 70,
+				"score": 0.206490
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 9,
+				"score": 0.204545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 14,
+				"score": 0.159091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1442,
+				"score": 0.158427
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 912,
+				"score": 0.156111
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 27,
+				"score": 0.147541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			}
+		]
+	},
+	{
+		"queries": "a b c d",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1327,
+				"score": 0.335101
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 855,
+				"score": 0.280328
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 91,
+				"score": 0.268437
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 11,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 194,
+				"score": 0.248718
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 43,
+				"score": 0.234973
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1110,
+				"score": 0.190003
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 16,
+				"score": 0.181818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1512,
+				"score": 0.166117
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			}
+		]
+	},
+	{
+		"queries": "a b c d e",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1436,
+				"score": 0.362626
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 953,
+				"score": 0.312459
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 228,
+				"score": 0.292308
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 96,
+				"score": 0.283186
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 47,
+				"score": 0.256831
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 11,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1221,
+				"score": 0.209004
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 17,
+				"score": 0.193182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1545,
+				"score": 0.169743
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1581,
+				"score": 0.399242
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1087,
+				"score": 0.356393
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 120,
+				"score": 0.353982
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 274,
+				"score": 0.351282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 56,
+				"score": 0.306011
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1483,
+				"score": 0.253851
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 22,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 11,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2046,
+				"score": 0.224786
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1597,
+				"score": 0.403283
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 286,
+				"score": 0.366667
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 124,
+				"score": 0.365782
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1112,
+				"score": 0.364590
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 65,
+				"score": 0.355191
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 24,
+				"score": 0.272727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 12,
+				"score": 0.272727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1533,
+				"score": 0.262410
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2103,
+				"score": 0.231048
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 5,
+				"score": 0.135135
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g h",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1652,
+				"score": 0.417172
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1171,
+				"score": 0.383934
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 130,
+				"score": 0.383481
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 298,
+				"score": 0.382051
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 67,
+				"score": 0.366120
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 25,
+				"score": 0.284091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 12,
+				"score": 0.272727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1586,
+				"score": 0.271482
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2196,
+				"score": 0.241266
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 5,
+				"score": 0.135135
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g h i",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1966,
+				"score": 0.496465
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 366,
+				"score": 0.469231
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1369,
+				"score": 0.448852
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 151,
+				"score": 0.445428
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 76,
+				"score": 0.415301
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 32,
+				"score": 0.363636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 3214,
+				"score": 0.353109
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 15,
+				"score": 0.340909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1842,
+				"score": 0.315303
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 9,
+				"score": 0.243243
+			}
+		]
+	},
+	{
+		"queries": "a b c d e f g h i j",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1990,
+				"score": 0.502525
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 372,
+				"score": 0.476923
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 153,
+				"score": 0.451327
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1376,
+				"score": 0.451148
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 78,
+				"score": 0.426230
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 33,
+				"score": 0.375000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 16,
+				"score": 0.363636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 3218,
+				"score": 0.353549
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1848,
+				"score": 0.316330
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 10,
+				"score": 0.270270
+			}
+		]
+	},
+	{
+		"queries": "aa ab ac ad ae af ag ah ai aj ak al am",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 80,
+				"score": 0.026230
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 100,
+				"score": 0.025253
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 18,
+				"score": 0.023077
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 75,
+				"score": 0.012838
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 36,
+				"score": 0.003955
+			}
+		]
+	},
+	{
+		"queries": "aa ae ai ao au",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 1,
+				"score": 0.005464
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 13,
+				"score": 0.003283
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 9,
+				"score": 0.002951
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 7,
+				"score": 0.001198
+			}
+		]
+	},
+	{
+		"queries": "aa ee ii oo uu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 2,
+				"score": 0.000656
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "an ao ap aq ar as at au av aw ax ay az",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 532,
+				"score": 0.134343
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 35,
+				"score": 0.103245
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 261,
+				"score": 0.085574
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 341,
+				"score": 0.058370
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 5,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 42,
+				"score": 0.053846
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 458,
+				"score": 0.050319
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			}
+		]
+	},
+	{
+		"queries": "b",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 172,
+				"score": 0.043434
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 131,
+				"score": 0.042951
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 11,
+				"score": 0.032448
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 122,
+				"score": 0.020883
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 34,
+				"score": 0.003735
+			}
+		]
+	},
+	{
+		"queries": "ba bb bc bd be bf bg bh bi bj bk bl bm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 74,
+				"score": 0.024262
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 17,
+				"score": 0.021795
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 71,
+				"score": 0.017929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 5,
+				"score": 0.014749
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 67,
+				"score": 0.011469
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 1,
+				"score": 0.005464
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 17,
+				"score": 0.001868
+			}
+		]
+	},
+	{
+		"queries": "ba be bi bo bu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 95,
+				"score": 0.031148
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 21,
+				"score": 0.026923
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 9,
+				"score": 0.026549
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 4,
+				"score": 0.021858
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 85,
+				"score": 0.021465
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 99,
+				"score": 0.016946
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 20,
+				"score": 0.002197
+			}
+		]
+	},
+	{
+		"queries": "bn bo bp bq br bs bt bu bv bw bx by bz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 6,
+				"score": 0.017699
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 54,
+				"score": 0.013636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 34,
+				"score": 0.011148
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 55,
+				"score": 0.009415
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 7,
+				"score": 0.008974
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 15,
+				"score": 0.001648
+			}
+		]
+	},
+	{
+		"queries": "c",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 910,
+				"score": 0.099978
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 72,
+				"score": 0.092308
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 7,
+				"score": 0.079545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 19,
+				"score": 0.056047
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 322,
+				"score": 0.055118
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 214,
+				"score": 0.054040
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 9,
+				"score": 0.049180
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 135,
+				"score": 0.044262
+			}
+		]
+	},
+	{
+		"queries": "c d",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 25,
+				"score": 0.136612
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 6,
+				"score": 0.136364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 99,
+				"score": 0.126923
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 40,
+				"score": 0.117994
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 980,
+				"score": 0.107669
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 369,
+				"score": 0.093182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 520,
+				"score": 0.089011
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 226,
+				"score": 0.074098
+			}
+		]
+	},
+	{
+		"queries": "ca cb cc cd ce cf cg ch ci cj ck cl cm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 112,
+				"score": 0.019172
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 64,
+				"score": 0.016162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 121,
+				"score": 0.013294
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 37,
+				"score": 0.012131
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 3,
+				"score": 0.008850
+			}
+		]
+	},
+	{
+		"queries": "ca ce ci co cu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 5,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 41,
+				"score": 0.052564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 12,
+				"score": 0.035398
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 107,
+				"score": 0.035082
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 202,
+				"score": 0.034577
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 136,
+				"score": 0.034343
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 78,
+				"score": 0.008570
+			}
+		]
+	},
+	{
+		"queries": "cn co cp cq cr cs ct cu cv cw cx cy cz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 5,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 31,
+				"score": 0.039744
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 13,
+				"score": 0.038348
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 197,
+				"score": 0.033721
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 123,
+				"score": 0.031061
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 94,
+				"score": 0.030820
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 73,
+				"score": 0.008020
+			}
+		]
+	},
+	{
+		"queries": "d",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 21,
+				"score": 0.061947
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 155,
+				"score": 0.039141
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 27,
+				"score": 0.034615
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 198,
+				"score": 0.033893
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 91,
+				"score": 0.029836
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 70,
+				"score": 0.007691
+			}
+		]
+	},
+	{
+		"queries": "d e f",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 29,
+				"score": 0.158470
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 50,
+				"score": 0.147493
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 107,
+				"score": 0.137179
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 323,
+				"score": 0.105902
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 409,
+				"score": 0.103283
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 571,
+				"score": 0.097740
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 8,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 604,
+				"score": 0.066359
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			}
+		]
+	},
+	{
+		"queries": "da db dc dd de df dg dh di dj dk dl dm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 12,
+				"score": 0.035398
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 164,
+				"score": 0.028073
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 20,
+				"score": 0.025641
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 96,
+				"score": 0.024242
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 55,
+				"score": 0.018033
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 3,
+				"score": 0.016393
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 36,
+				"score": 0.003955
+			}
+		]
+	},
+	{
+		"queries": "da de di do du",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 20,
+				"score": 0.058997
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 176,
+				"score": 0.030127
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 114,
+				"score": 0.028788
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 83,
+				"score": 0.027213
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 41,
+				"score": 0.004505
+			}
+		]
+	},
+	{
+		"queries": "dn do dp dq dr ds dt du dv dw dx dy dz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 13,
+				"score": 0.071038
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 9,
+				"score": 0.026549
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 38,
+				"score": 0.009596
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 29,
+				"score": 0.009508
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 7,
+				"score": 0.008974
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 34,
+				"score": 0.005820
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 32,
+				"score": 0.003516
+			}
+		]
+	},
+	{
+		"queries": "e",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 34,
+				"score": 0.043590
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 98,
+				"score": 0.032131
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 109,
+				"score": 0.027525
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 4,
+				"score": 0.021858
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 111,
+				"score": 0.019000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 5,
+				"score": 0.014749
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 33,
+				"score": 0.003626
+			}
+		]
+	},
+	{
+		"queries": "e f",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 80,
+				"score": 0.102564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 29,
+				"score": 0.085546
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 232,
+				"score": 0.076066
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 13,
+				"score": 0.071038
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 254,
+				"score": 0.064141
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 373,
+				"score": 0.063848
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 534,
+				"score": 0.058668
+			}
+		]
+	},
+	{
+		"queries": "e f g h",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 104,
+				"score": 0.133333
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 24,
+				"score": 0.131148
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 39,
+				"score": 0.115044
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 316,
+				"score": 0.103607
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 325,
+				"score": 0.082071
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 476,
+				"score": 0.081479
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 684,
+				"score": 0.075148
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			}
+		]
+	},
+	{
+		"queries": "ea eb ec ed ee ef eg eh ei ej ek el em",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 50,
+				"score": 0.016393
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 58,
+				"score": 0.014646
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 6,
+				"score": 0.007692
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 17,
+				"score": 0.002910
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 11,
+				"score": 0.001209
+			}
+		]
+	},
+	{
+		"queries": "ea ee ei eo eu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 23,
+				"score": 0.005808
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 13,
+				"score": 0.004262
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5,
+				"score": 0.000549
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1,
+				"score": 0.000171
+			}
+		]
+	},
+	{
+		"queries": "en eo ep eq er es et eu ev ew ex ey ez",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 28,
+				"score": 0.035897
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 3,
+				"score": 0.016393
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 94,
+				"score": 0.016090
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 48,
+				"score": 0.015738
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 45,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 20,
+				"score": 0.002197
+			}
+		]
+	},
+	{
+		"queries": "f",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 24,
+				"score": 0.070796
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 46,
+				"score": 0.058974
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 5,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 501,
+				"score": 0.055043
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 9,
+				"score": 0.049180
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 262,
+				"score": 0.044848
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 134,
+				"score": 0.043934
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 145,
+				"score": 0.036616
+			}
+		]
+	},
+	{
+		"queries": "f g h i j",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 7,
+				"score": 0.189189
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 144,
+				"score": 0.184615
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1673,
+				"score": 0.183806
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 16,
+				"score": 0.181818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 31,
+				"score": 0.169399
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 57,
+				"score": 0.168142
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 554,
+				"score": 0.139899
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 423,
+				"score": 0.138689
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 5,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 627,
+				"score": 0.107326
+			}
+		]
+	},
+	{
+		"queries": "fa fb fc fd fe ff fg fh fi fj fk fl fm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 17,
+				"score": 0.021795
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 106,
+				"score": 0.018144
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 40,
+				"score": 0.013115
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 41,
+				"score": 0.010354
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 1,
+				"score": 0.005464
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 43,
+				"score": 0.004724
+			}
+		]
+	},
+	{
+		"queries": "fa fe fi fo fu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 22,
+				"score": 0.064897
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 436,
+				"score": 0.047902
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 32,
+				"score": 0.041026
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 116,
+				"score": 0.038033
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 208,
+				"score": 0.035604
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 111,
+				"score": 0.028030
+			}
+		]
+	},
+	{
+		"queries": "fn fo fp fq fr fs ft fu fv fw fx fy fz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 20,
+				"score": 0.058997
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 455,
+				"score": 0.049989
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 8,
+				"score": 0.043716
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 29,
+				"score": 0.037179
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 94,
+				"score": 0.030820
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 156,
+				"score": 0.026703
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 103,
+				"score": 0.026010
+			}
+		]
+	},
+	{
+		"queries": "g",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 9,
+				"score": 0.049180
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 50,
+				"score": 0.008559
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 25,
+				"score": 0.008197
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 57,
+				"score": 0.006262
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 16,
+				"score": 0.004040
+			}
+		]
+	},
+	{
+		"queries": "g h",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 11,
+				"score": 0.060109
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 3,
+				"score": 0.034091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 10,
+				"score": 0.029499
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 84,
+				"score": 0.027541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 71,
+				"score": 0.017929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 103,
+				"score": 0.017631
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 150,
+				"score": 0.016480
+			}
+		]
+	},
+	{
+		"queries": "g h i",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 6,
+				"score": 0.162162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1168,
+				"score": 0.128323
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 92,
+				"score": 0.117949
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 10,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 20,
+				"score": 0.109290
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 385,
+				"score": 0.097222
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 282,
+				"score": 0.092459
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 31,
+				"score": 0.091445
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 359,
+				"score": 0.061452
+			}
+		]
+	},
+	{
+		"queries": "g h i j k l",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 8,
+				"score": 0.216216
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 125,
+				"score": 0.160256
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 27,
+				"score": 0.147541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1285,
+				"score": 0.141178
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 12,
+				"score": 0.136364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 6,
+				"score": 0.136364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 389,
+				"score": 0.127541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 480,
+				"score": 0.121212
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 41,
+				"score": 0.120944
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 429,
+				"score": 0.073434
+			}
+		]
+	},
+	{
+		"queries": "ga gb gc gd ge gf gg gh gi gj gk gl gm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 4,
+				"score": 0.021858
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 8,
+				"score": 0.010256
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 39,
+				"score": 0.006676
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 18,
+				"score": 0.005902
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 47,
+				"score": 0.005164
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 13,
+				"score": 0.003283
+			}
+		]
+	},
+	{
+		"queries": "ga ge gi go gu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 8,
+				"score": 0.043716
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 43,
+				"score": 0.007360
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 22,
+				"score": 0.007213
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 48,
+				"score": 0.005274
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 14,
+				"score": 0.003535
+			}
+		]
+	},
+	{
+		"queries": "gn go gp gq gr gs gt gu gv gw gx gy gz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 4,
+				"score": 0.005128
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 7,
+				"score": 0.002295
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 11,
+				"score": 0.001883
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 8,
+				"score": 0.000879
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 3,
+				"score": 0.000758
+			}
+		]
+	},
+	{
+		"queries": "h",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 59,
+				"score": 0.019344
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 6,
+				"score": 0.017699
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 55,
+				"score": 0.013889
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 93,
+				"score": 0.010218
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 53,
+				"score": 0.009072
+			}
+		]
+	},
+	{
+		"queries": "h i j k l m n",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5957,
+				"score": 0.654472
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3133,
+				"score": 0.536289
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 15,
+				"score": 0.405405
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 27,
+				"score": 0.306818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 13,
+				"score": 0.295455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 215,
+				"score": 0.275641
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 88,
+				"score": 0.259587
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 724,
+				"score": 0.237377
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 40,
+				"score": 0.218579
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 834,
+				"score": 0.210606
+			}
+		]
+	},
+	{
+		"queries": "ha hb hc hd he hf hg hh hi hj hk hl hm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 47,
+				"score": 0.015410
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 8,
+				"score": 0.010256
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 37,
+				"score": 0.009343
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 83,
+				"score": 0.009119
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 46,
+				"score": 0.007874
+			}
+		]
+	},
+	{
+		"queries": "ha he hi ho hu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 54,
+				"score": 0.017705
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 6,
+				"score": 0.017699
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 44,
+				"score": 0.011111
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 83,
+				"score": 0.009119
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 52,
+				"score": 0.008901
+			}
+		]
+	},
+	{
+		"queries": "hn ho hp hq hr hs ht hu hv hw hx hy hz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 4,
+				"score": 0.005128
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 18,
+				"score": 0.004545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 10,
+				"score": 0.003279
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 7,
+				"score": 0.001198
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 7,
+				"score": 0.000769
+			}
+		]
+	},
+	{
+		"queries": "i",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1018,
+				"score": 0.111844
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 4,
+				"score": 0.108108
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 68,
+				"score": 0.087179
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 7,
+				"score": 0.079545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 314,
+				"score": 0.079293
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 198,
+				"score": 0.064918
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 21,
+				"score": 0.061947
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 9,
+				"score": 0.049180
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 256,
+				"score": 0.043821
+			}
+		]
+	},
+	{
+		"queries": "i j",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 5,
+				"score": 0.135135
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1022,
+				"score": 0.112283
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 74,
+				"score": 0.094872
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 8,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 338,
+				"score": 0.085354
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 23,
+				"score": 0.067847
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 205,
+				"score": 0.067213
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 11,
+				"score": 0.060109
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 262,
+				"score": 0.044848
+			}
+		]
+	},
+	{
+		"queries": "i j k l",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 6,
+				"score": 0.162162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 101,
+				"score": 0.129487
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1135,
+				"score": 0.124698
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 5,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 409,
+				"score": 0.103283
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 305,
+				"score": 0.100000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 31,
+				"score": 0.091445
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 326,
+				"score": 0.055803
+			}
+		]
+	},
+	{
+		"queries": "i j k l m n o p",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 6382,
+				"score": 0.701165
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3402,
+				"score": 0.582335
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 18,
+				"score": 0.486486
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 35,
+				"score": 0.397727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 290,
+				"score": 0.371795
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 16,
+				"score": 0.363636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 121,
+				"score": 0.356932
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 999,
+				"score": 0.327541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 57,
+				"score": 0.311475
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1168,
+				"score": 0.294949
+			}
+		]
+	},
+	{
+		"queries": "ia ib ic id ie if ig ih ii ij ik il im",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 41,
+				"score": 0.010354
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 8,
+				"score": 0.010256
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 27,
+				"score": 0.008852
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 38,
+				"score": 0.006505
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 1,
+				"score": 0.002950
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 25,
+				"score": 0.002747
+			}
+		]
+	},
+	{
+		"queries": "ia ie ii io iu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 2,
+				"score": 0.002564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5,
+				"score": 0.000549
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 2,
+				"score": 0.000505
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2,
+				"score": 0.000342
+			}
+		]
+	},
+	{
+		"queries": "in io ip iq ir is it iu iv iw ix iy iz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 989,
+				"score": 0.108657
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 4,
+				"score": 0.108108
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 60,
+				"score": 0.076923
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 262,
+				"score": 0.066162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 20,
+				"score": 0.058997
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 165,
+				"score": 0.054098
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 217,
+				"score": 0.037145
+			}
+		]
+	},
+	{
+		"queries": "j",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 6,
+				"score": 0.007692
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 24,
+				"score": 0.006061
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 7,
+				"score": 0.002295
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 6,
+				"score": 0.001027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "j k l",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 33,
+				"score": 0.042308
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 107,
+				"score": 0.035082
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 10,
+				"score": 0.029499
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 95,
+				"score": 0.023990
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 117,
+				"score": 0.012854
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 70,
+				"score": 0.011982
+			}
+		]
+	},
+	{
+		"queries": "j k l m n o p q r",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5459,
+				"score": 0.599758
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3267,
+				"score": 0.559226
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 14,
+				"score": 0.378378
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 31,
+				"score": 0.352273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 115,
+				"score": 0.339233
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 14,
+				"score": 0.318182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 55,
+				"score": 0.300546
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 234,
+				"score": 0.300000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 906,
+				"score": 0.297049
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 972,
+				"score": 0.245455
+			}
+		]
+	},
+	{
+		"queries": "ja jb jc jd je jf jg jh ji jj jk jl jm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 1,
+				"score": 0.002950
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 2,
+				"score": 0.002564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2,
+				"score": 0.000342
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1,
+				"score": 0.000328
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1,
+				"score": 0.000253
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "ja je ji jo ju",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 2,
+				"score": 0.010929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 2,
+				"score": 0.002564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 4,
+				"score": 0.001311
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 5,
+				"score": 0.000856
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1,
+				"score": 0.000253
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2,
+				"score": 0.000220
+			}
+		]
+	},
+	{
+		"queries": "jn jo jp jq jr js jt ju jv jw jx jy jz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 1,
+				"score": 0.002950
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 3,
+				"score": 0.000984
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 4,
+				"score": 0.000685
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "k",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 3,
+				"score": 0.003846
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 7,
+				"score": 0.002295
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 11,
+				"score": 0.001883
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 4,
+				"score": 0.001010
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 8,
+				"score": 0.000879
+			}
+		]
+	},
+	{
+		"queries": "k l",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 27,
+				"score": 0.034615
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 100,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 71,
+				"score": 0.017929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 113,
+				"score": 0.012415
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 64,
+				"score": 0.010955
+			}
+		]
+	},
+	{
+		"queries": "k l m n o",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4862,
+				"score": 0.534168
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3006,
+				"score": 0.514550
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 11,
+				"score": 0.297297
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 24,
+				"score": 0.272727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 86,
+				"score": 0.253687
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 715,
+				"score": 0.234426
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 10,
+				"score": 0.227273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 172,
+				"score": 0.220513
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 37,
+				"score": 0.202186
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 715,
+				"score": 0.180556
+			}
+		]
+	},
+	{
+		"queries": "k l m n o p q r s t",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3737,
+				"score": 0.639678
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5649,
+				"score": 0.620633
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 46,
+				"score": 0.522727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 23,
+				"score": 0.522727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 19,
+				"score": 0.513514
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 91,
+				"score": 0.497268
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 166,
+				"score": 0.489676
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 1394,
+				"score": 0.457049
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 340,
+				"score": 0.435897
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1677,
+				"score": 0.423485
+			}
+		]
+	},
+	{
+		"queries": "ka kb kc kd ke kf kg kh ki kj kk kl km",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 2,
+				"score": 0.002564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 10,
+				"score": 0.001712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 4,
+				"score": 0.001311
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "ka ke ki ko ku",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 2,
+				"score": 0.002564
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 10,
+				"score": 0.001712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 4,
+				"score": 0.001311
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "kn ko kp kq kr ks kt ku kv kw kx ky kz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 4,
+				"score": 0.001010
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 2,
+				"score": 0.000656
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2,
+				"score": 0.000220
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1,
+				"score": 0.000171
+			}
+		]
+	},
+	{
+		"queries": "l",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 93,
+				"score": 0.030492
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 67,
+				"score": 0.016919
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 105,
+				"score": 0.011536
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 53,
+				"score": 0.009072
+			}
+		]
+	},
+	{
+		"queries": "la lb lc ld le lf lg lh li lj lk ll lm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 64,
+				"score": 0.020984
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 7,
+				"score": 0.020649
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 14,
+				"score": 0.017949
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 60,
+				"score": 0.015152
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 78,
+				"score": 0.008570
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 39,
+				"score": 0.006676
+			}
+		]
+	},
+	{
+		"queries": "la le li lo lu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 92,
+				"score": 0.030164
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 66,
+				"score": 0.016667
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 97,
+				"score": 0.010657
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 53,
+				"score": 0.009072
+			}
+		]
+	},
+	{
+		"queries": "ln lo lp lq lr ls lt lu lv lw lx ly lz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 10,
+				"score": 0.012821
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 28,
+				"score": 0.009180
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 1,
+				"score": 0.002950
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 25,
+				"score": 0.002747
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 14,
+				"score": 0.002396
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 6,
+				"score": 0.001515
+			}
+		]
+	},
+	{
+		"queries": "m",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2087,
+				"score": 0.229290
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 209,
+				"score": 0.068525
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 16,
+				"score": 0.047198
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 33,
+				"score": 0.042308
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 244,
+				"score": 0.041767
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 109,
+				"score": 0.027525
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			}
+		]
+	},
+	{
+		"queries": "m n",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4729,
+				"score": 0.519556
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2754,
+				"score": 0.471414
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 9,
+				"score": 0.243243
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 17,
+				"score": 0.193182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 8,
+				"score": 0.181818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 51,
+				"score": 0.150442
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 102,
+				"score": 0.130769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 22,
+				"score": 0.120219
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 360,
+				"score": 0.118033
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 370,
+				"score": 0.093434
+			}
+		]
+	},
+	{
+		"queries": "m n o",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4749,
+				"score": 0.521753
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2942,
+				"score": 0.503595
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 10,
+				"score": 0.270270
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 23,
+				"score": 0.261364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 78,
+				"score": 0.230088
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 9,
+				"score": 0.204545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 615,
+				"score": 0.201639
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 145,
+				"score": 0.185897
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 32,
+				"score": 0.174863
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 644,
+				"score": 0.162626
+			}
+		]
+	},
+	{
+		"queries": "m n o p",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5247,
+				"score": 0.576467
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3076,
+				"score": 0.526532
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 12,
+				"score": 0.324324
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 26,
+				"score": 0.295455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 90,
+				"score": 0.265487
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 11,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 189,
+				"score": 0.242308
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 694,
+				"score": 0.227541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 41,
+				"score": 0.224044
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 759,
+				"score": 0.191667
+			}
+		]
+	},
+	{
+		"queries": "m n o p q r",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5342,
+				"score": 0.586904
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 3197,
+				"score": 0.547244
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 29,
+				"score": 0.329545
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 12,
+				"score": 0.324324
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 105,
+				"score": 0.309735
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 12,
+				"score": 0.272727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 48,
+				"score": 0.262295
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 799,
+				"score": 0.261967
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 201,
+				"score": 0.257692
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 877,
+				"score": 0.221465
+			}
+		]
+	},
+	{
+		"queries": "ma mb mc md me mf mg mh mi mj mk ml mm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1181,
+				"score": 0.129752
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 5,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 165,
+				"score": 0.054098
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 13,
+				"score": 0.038348
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 193,
+				"score": 0.033037
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 74,
+				"score": 0.018687
+			}
+		]
+	},
+	{
+		"queries": "ma me mi mo mu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2082,
+				"score": 0.228741
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 203,
+				"score": 0.066557
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 16,
+				"score": 0.047198
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 244,
+				"score": 0.041767
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 28,
+				"score": 0.035897
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 104,
+				"score": 0.026263
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			}
+		]
+	},
+	{
+		"queries": "mn mo mp mq mr ms mt mu mv mw mx my mz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 904,
+				"score": 0.099319
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 40,
+				"score": 0.013115
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 9,
+				"score": 0.011538
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 3,
+				"score": 0.008850
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 51,
+				"score": 0.008730
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 32,
+				"score": 0.008081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 1,
+				"score": 0.005464
+			}
+		]
+	},
+	{
+		"queries": "n",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2510,
+				"score": 0.429647
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2642,
+				"score": 0.290266
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 8,
+				"score": 0.216216
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 7,
+				"score": 0.159091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 11,
+				"score": 0.125000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 35,
+				"score": 0.103245
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 69,
+				"score": 0.088462
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 261,
+				"score": 0.065909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 151,
+				"score": 0.049508
+			}
+		]
+	},
+	{
+		"queries": "na nb nc nd ne nf ng nh ni nj nk nl nm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 25,
+				"score": 0.032051
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 78,
+				"score": 0.013352
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 50,
+				"score": 0.012626
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 25,
+				"score": 0.008197
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 54,
+				"score": 0.005933
+			}
+		]
+	},
+	{
+		"queries": "na ne ni no nu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2473,
+				"score": 0.423314
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2338,
+				"score": 0.256867
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 8,
+				"score": 0.216216
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 6,
+				"score": 0.136364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 11,
+				"score": 0.125000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 33,
+				"score": 0.097345
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 48,
+				"score": 0.061538
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 132,
+				"score": 0.043279
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 134,
+				"score": 0.033838
+			}
+		]
+	},
+	{
+		"queries": "nn no np nq nr ns nt nu nv nw nx ny nz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 2432,
+				"score": 0.416296
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2586,
+				"score": 0.284113
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 6,
+				"score": 0.162162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 31,
+				"score": 0.091445
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 44,
+				"score": 0.056410
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 208,
+				"score": 0.052525
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 121,
+				"score": 0.039672
+			}
+		]
+	},
+	{
+		"queries": "o",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 255,
+				"score": 0.083607
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 27,
+				"score": 0.079646
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 274,
+				"score": 0.069192
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 43,
+				"score": 0.055128
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 10,
+				"score": 0.054645
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 188,
+				"score": 0.032181
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 20,
+				"score": 0.002197
+			}
+		]
+	},
+	{
+		"queries": "o p",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 39,
+				"score": 0.115044
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 87,
+				"score": 0.111538
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 334,
+				"score": 0.109508
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 19,
+				"score": 0.103825
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 389,
+				"score": 0.098232
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 518,
+				"score": 0.056911
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 322,
+				"score": 0.055118
+			}
+		]
+	},
+	{
+		"queries": "o p q r s t u",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 36,
+				"score": 0.409091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 71,
+				"score": 0.387978
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 17,
+				"score": 0.386364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 14,
+				"score": 0.378378
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 119,
+				"score": 0.351032
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 999,
+				"score": 0.327541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1294,
+				"score": 0.326768
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 227,
+				"score": 0.291026
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1016,
+				"score": 0.173913
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 835,
+				"score": 0.091738
+			}
+		]
+	},
+	{
+		"queries": "oa ob oc od oe of og oh oi oj ok ol om",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 170,
+				"score": 0.042929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 117,
+				"score": 0.038361
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 12,
+				"score": 0.035398
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 18,
+				"score": 0.023077
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 67,
+				"score": 0.011469
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "oa oe oi oo ou",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 2,
+				"score": 0.005900
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 8,
+				"score": 0.002020
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 5,
+				"score": 0.001639
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 8,
+				"score": 0.001369
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 2,
+				"score": 0.000220
+			}
+		]
+	},
+	{
+		"queries": "on oo op oq or os ot ou ov ow ox oy oz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 138,
+				"score": 0.045246
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 15,
+				"score": 0.044248
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 25,
+				"score": 0.032051
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 104,
+				"score": 0.026263
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 121,
+				"score": 0.020712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 3,
+				"score": 0.016393
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 14,
+				"score": 0.001538
+			}
+		]
+	},
+	{
+		"queries": "p",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 44,
+				"score": 0.056410
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 498,
+				"score": 0.054713
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 9,
+				"score": 0.049180
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 12,
+				"score": 0.035398
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 3,
+				"score": 0.034091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 115,
+				"score": 0.029040
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 79,
+				"score": 0.025902
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 134,
+				"score": 0.022937
+			}
+		]
+	},
+	{
+		"queries": "p q r",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 16,
+				"score": 0.087432
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 27,
+				"score": 0.079646
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 56,
+				"score": 0.071795
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 593,
+				"score": 0.065151
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 184,
+				"score": 0.060328
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 233,
+				"score": 0.058838
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 255,
+				"score": 0.043649
+			}
+		]
+	},
+	{
+		"queries": "p q r s t",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 13,
+				"score": 0.295455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 54,
+				"score": 0.295082
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 22,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 962,
+				"score": 0.242929
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 80,
+				"score": 0.235988
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 679,
+				"score": 0.222623
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 8,
+				"score": 0.216216
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 168,
+				"score": 0.215385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 731,
+				"score": 0.125128
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 787,
+				"score": 0.086465
+			}
+		]
+	},
+	{
+		"queries": "pa pb pc pd pe pf pg ph pi pj pk pl pm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 4,
+				"score": 0.021858
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 11,
+				"score": 0.014103
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 4,
+				"score": 0.011799
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 36,
+				"score": 0.009091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 21,
+				"score": 0.006885
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 31,
+				"score": 0.005306
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 12,
+				"score": 0.001318
+			}
+		]
+	},
+	{
+		"queries": "pa pe pi po pu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 6,
+				"score": 0.017699
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 13,
+				"score": 0.016667
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 56,
+				"score": 0.009586
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 29,
+				"score": 0.009508
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 29,
+				"score": 0.007323
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 54,
+				"score": 0.005933
+			}
+		]
+	},
+	{
+		"queries": "pn po pp pq pr ps pt pu pv pw px py pz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 484,
+				"score": 0.053175
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 33,
+				"score": 0.042308
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 79,
+				"score": 0.019949
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 58,
+				"score": 0.019016
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 103,
+				"score": 0.017631
+			}
+		]
+	},
+	{
+		"queries": "q",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 6,
+				"score": 0.001967
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 10,
+				"score": 0.001712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 4,
+				"score": 0.001010
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 3,
+				"score": 0.000330
+			}
+		]
+	},
+	{
+		"queries": "q r",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 15,
+				"score": 0.044248
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 105,
+				"score": 0.034426
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 3,
+				"score": 0.034091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 118,
+				"score": 0.029798
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 121,
+				"score": 0.020712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 95,
+				"score": 0.010437
+			}
+		]
+	},
+	{
+		"queries": "q r s t",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 11,
+				"score": 0.250000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 45,
+				"score": 0.245902
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 19,
+				"score": 0.215909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 847,
+				"score": 0.213889
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 68,
+				"score": 0.200590
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 600,
+				"score": 0.196721
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 6,
+				"score": 0.162162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 124,
+				"score": 0.158974
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 597,
+				"score": 0.102191
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 289,
+				"score": 0.031751
+			}
+		]
+	},
+	{
+		"queries": "q r s t u v w x",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 14,
+				"score": 0.378378
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 16,
+				"score": 0.363636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 59,
+				"score": 0.322404
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 28,
+				"score": 0.318182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1102,
+				"score": 0.278283
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 824,
+				"score": 0.270164
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 88,
+				"score": 0.259587
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 188,
+				"score": 0.241026
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 836,
+				"score": 0.143102
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 514,
+				"score": 0.056471
+			}
+		]
+	},
+	{
+		"queries": "qa qb qc qd qe qf qg qh qi qj qk ql qm",
+		"results": [
+		]
+	},
+	{
+		"queries": "qa qe qi qo qu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 10,
+				"score": 0.001712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 4,
+				"score": 0.001010
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 2,
+				"score": 0.000656
+			}
+		]
+	},
+	{
+		"queries": "qn qo qp qq qr qs qt qu qv qw qx qy qz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 10,
+				"score": 0.001712
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 5,
+				"score": 0.001639
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 4,
+				"score": 0.001010
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "r",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 15,
+				"score": 0.044248
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 99,
+				"score": 0.032459
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 114,
+				"score": 0.028788
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 111,
+				"score": 0.019000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 92,
+				"score": 0.010108
+			}
+		]
+	},
+	{
+		"queries": "ra rb rc rd re rf rg rh ri rj rk rl rm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 73,
+				"score": 0.023934
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 86,
+				"score": 0.021717
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 6,
+				"score": 0.017699
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 11,
+				"score": 0.014103
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 76,
+				"score": 0.013009
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 67,
+				"score": 0.007361
+			}
+		]
+	},
+	{
+		"queries": "ra re ri ro ru",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 15,
+				"score": 0.044248
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 91,
+				"score": 0.029836
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 106,
+				"score": 0.026768
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 111,
+				"score": 0.019000
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 68,
+				"score": 0.007471
+			}
+		]
+	},
+	{
+		"queries": "rn ro rp rq rr rs rt ru rv rw rx ry rz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 9,
+				"score": 0.026549
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 22,
+				"score": 0.007213
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 35,
+				"score": 0.005991
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 20,
+				"score": 0.005051
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 22,
+				"score": 0.002417
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			}
+		]
+	},
+	{
+		"queries": "s",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 12,
+				"score": 0.065574
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 20,
+				"score": 0.058997
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 225,
+				"score": 0.056818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 168,
+				"score": 0.055082
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 42,
+				"score": 0.053846
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 216,
+				"score": 0.036974
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 113,
+				"score": 0.012415
+			}
+		]
+	},
+	{
+		"queries": "s t",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 10,
+				"score": 0.227273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 38,
+				"score": 0.207650
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 729,
+				"score": 0.184091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 16,
+				"score": 0.181818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 495,
+				"score": 0.162295
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 6,
+				"score": 0.162162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 53,
+				"score": 0.156342
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 112,
+				"score": 0.143590
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 476,
+				"score": 0.081479
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 194,
+				"score": 0.021314
+			}
+		]
+	},
+	{
+		"queries": "s t u",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 11,
+				"score": 0.297297
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 13,
+				"score": 0.295455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 24,
+				"score": 0.272727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 45,
+				"score": 0.245902
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 787,
+				"score": 0.198737
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 65,
+				"score": 0.191740
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 560,
+				"score": 0.183607
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 128,
+				"score": 0.164103
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 573,
+				"score": 0.098083
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 222,
+				"score": 0.024390
+			}
+		]
+	},
+	{
+		"queries": "s t u v w x",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 14,
+				"score": 0.378378
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 15,
+				"score": 0.340909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 52,
+				"score": 0.284153
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 25,
+				"score": 0.284091
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 984,
+				"score": 0.248485
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 719,
+				"score": 0.235738
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 176,
+				"score": 0.225641
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 73,
+				"score": 0.215339
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 715,
+				"score": 0.122390
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 419,
+				"score": 0.046034
+			}
+		]
+	},
+	{
+		"queries": "sa sb sc sd se sf sg sh si sj sk sl sm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 142,
+				"score": 0.035859
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 98,
+				"score": 0.032131
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 18,
+				"score": 0.023077
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 99,
+				"score": 0.016946
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 57,
+				"score": 0.006262
+			}
+		]
+	},
+	{
+		"queries": "sa se si so su",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 120,
+				"score": 0.030303
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 84,
+				"score": 0.027541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 17,
+				"score": 0.021795
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 108,
+				"score": 0.018487
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 57,
+				"score": 0.006262
+			}
+		]
+	},
+	{
+		"queries": "sn so sp sq sr ss st su sv sw sx sy sz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 12,
+				"score": 0.035398
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 24,
+				"score": 0.030769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 2,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 67,
+				"score": 0.021967
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 117,
+				"score": 0.020027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 75,
+				"score": 0.018939
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 53,
+				"score": 0.005823
+			}
+		]
+	},
+	{
+		"queries": "t",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 26,
+				"score": 0.142077
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 6,
+				"score": 0.136364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 504,
+				"score": 0.127273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 10,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 327,
+				"score": 0.107213
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 33,
+				"score": 0.097345
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 70,
+				"score": 0.089744
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 260,
+				"score": 0.044505
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 81,
+				"score": 0.008899
+			}
+		]
+	},
+	{
+		"queries": "ta tb tc td te tf tg th ti tj tk tl tm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 19,
+				"score": 0.103825
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 344,
+				"score": 0.086869
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 212,
+				"score": 0.069508
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 6,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 18,
+				"score": 0.053097
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 32,
+				"score": 0.041026
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 148,
+				"score": 0.025334
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 12,
+				"score": 0.001318
+			}
+		]
+	},
+	{
+		"queries": "ta te ti to tu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 10,
+				"score": 0.054645
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 40,
+				"score": 0.051282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 131,
+				"score": 0.033081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 11,
+				"score": 0.032448
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 85,
+				"score": 0.027869
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 99,
+				"score": 0.016946
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 23,
+				"score": 0.002527
+			}
+		]
+	},
+	{
+		"queries": "tn to tp tq tr ts tt tu tv tw tx ty tz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 5,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 38,
+				"score": 0.048718
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 4,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 15,
+				"score": 0.044248
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 160,
+				"score": 0.040404
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 113,
+				"score": 0.037049
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 112,
+				"score": 0.019172
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 66,
+				"score": 0.007251
+			}
+		]
+	},
+	{
+		"queries": "u",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 5,
+				"score": 0.135135
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 8,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 12,
+				"score": 0.035398
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 65,
+				"score": 0.021311
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 16,
+				"score": 0.020513
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 97,
+				"score": 0.016604
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 58,
+				"score": 0.014646
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 28,
+				"score": 0.003076
+			}
+		]
+	},
+	{
+		"queries": "u v",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 6,
+				"score": 0.162162
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 4,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 8,
+				"score": 0.043716
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 121,
+				"score": 0.039672
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 13,
+				"score": 0.038348
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 29,
+				"score": 0.037179
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 111,
+				"score": 0.028030
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 151,
+				"score": 0.025847
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 216,
+				"score": 0.023731
+			}
+		]
+	},
+	{
+		"queries": "u v w x",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 8,
+				"score": 0.216216
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 5,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 64,
+				"score": 0.082051
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 14,
+				"score": 0.076503
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 224,
+				"score": 0.073443
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 255,
+				"score": 0.064394
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 20,
+				"score": 0.058997
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 239,
+				"score": 0.040911
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 225,
+				"score": 0.024720
+			}
+		]
+	},
+	{
+		"queries": "u v w x y",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 8,
+				"score": 0.216216
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 5,
+				"score": 0.113636
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 9,
+				"score": 0.102273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 265,
+				"score": 0.086885
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 67,
+				"score": 0.085897
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 14,
+				"score": 0.076503
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 282,
+				"score": 0.071212
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 20,
+				"score": 0.058997
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 253,
+				"score": 0.043307
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 228,
+				"score": 0.025049
+			}
+		]
+	},
+	{
+		"queries": "ua ub uc ud ue uf ug uh ui uj uk ul um",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 5,
+				"score": 0.014749
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 23,
+				"score": 0.003937
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 15,
+				"score": 0.001648
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 5,
+				"score": 0.001639
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 6,
+				"score": 0.001515
+			}
+		]
+	},
+	{
+		"queries": "ua ue ui uo uu",
+		"results": [
+		]
+	},
+	{
+		"queries": "un uo up uq ur us ut uu uv uw ux uy uz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 5,
+				"score": 0.135135
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 8,
+				"score": 0.090909
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 3,
+				"score": 0.068182
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 7,
+				"score": 0.020649
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 16,
+				"score": 0.020513
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 59,
+				"score": 0.019344
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 74,
+				"score": 0.012667
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 50,
+				"score": 0.012626
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 11,
+				"score": 0.001209
+			}
+		]
+	},
+	{
+		"queries": "v",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 1,
+				"score": 0.027027
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 188,
+				"score": 0.020655
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 56,
+				"score": 0.018361
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 13,
+				"score": 0.016667
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 53,
+				"score": 0.013384
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 54,
+				"score": 0.009243
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 1,
+				"score": 0.005464
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 1,
+				"score": 0.002950
+			}
+		]
+	},
+	{
+		"queries": "v w x",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 3,
+				"score": 0.081081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 48,
+				"score": 0.061538
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 159,
+				"score": 0.052131
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 197,
+				"score": 0.049747
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 2,
+				"score": 0.045455
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 7,
+				"score": 0.038251
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 142,
+				"score": 0.024307
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 8,
+				"score": 0.023599
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 197,
+				"score": 0.021644
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/index.html",
+				"count": 1,
+				"score": 0.011364
+			}
+		]
+	},
+	{
+		"queries": "va vb vc vd ve vf vg vh vi vj vk vl vm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 181,
+				"score": 0.019886
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 46,
+				"score": 0.015082
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 39,
+				"score": 0.009848
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 44,
+				"score": 0.007532
+			}
+		]
+	},
+	{
+		"queries": "va ve vi vo vu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 181,
+				"score": 0.019886
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 12,
+				"score": 0.015385
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 40,
+				"score": 0.013115
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 37,
+				"score": 0.009343
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 44,
+				"score": 0.007532
+			}
+		]
+	},
+	{
+		"queries": "vn vo vp vq vr vs vt vu vv vw vx vy vz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 11,
+				"score": 0.002778
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 9,
+				"score": 0.001541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 3,
+				"score": 0.000984
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "w",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 31,
+				"score": 0.039744
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 127,
+				"score": 0.032071
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 80,
+				"score": 0.026230
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 7,
+				"score": 0.020649
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 88,
+				"score": 0.015063
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 8,
+				"score": 0.000879
+			}
+		]
+	},
+	{
+		"queries": "w x",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 35,
+				"score": 0.044872
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 144,
+				"score": 0.036364
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 103,
+				"score": 0.033770
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 6,
+				"score": 0.032787
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 7,
+				"score": 0.020649
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 88,
+				"score": 0.015063
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 9,
+				"score": 0.000989
+			}
+		]
+	},
+	{
+		"queries": "wa wb wc wd we wf wg wh wi wj wk wl wm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/setting-up.html",
+				"count": 2,
+				"score": 0.054054
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 118,
+				"score": 0.029798
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 5,
+				"score": 0.027322
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 72,
+				"score": 0.023607
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 18,
+				"score": 0.023077
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 6,
+				"score": 0.017699
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 75,
+				"score": 0.012838
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5,
+				"score": 0.000549
+			}
+		]
+	},
+	{
+		"queries": "wa we wi wo wu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 90,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/basics.html",
+				"count": 1,
+				"score": 0.022727
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 4,
+				"score": 0.021858
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 16,
+				"score": 0.020513
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 42,
+				"score": 0.013770
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 71,
+				"score": 0.012153
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 3,
+				"score": 0.008850
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "wn wo wp wq wr ws wt wu wv ww wx wy wz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 13,
+				"score": 0.016667
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/index.html",
+				"count": 1,
+				"score": 0.005464
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/reference/index.html",
+				"count": 1,
+				"score": 0.002950
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 7,
+				"score": 0.002295
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 9,
+				"score": 0.002273
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 13,
+				"score": 0.002225
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "x",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 23,
+				"score": 0.007541
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 4,
+				"score": 0.005128
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 17,
+				"score": 0.004293
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "xa xb xc xd xe xf xg xh xi xj xk xl xm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 3,
+				"score": 0.000984
+			}
+		]
+	},
+	{
+		"queries": "xa xe xi xo xu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "xn xo xp xq xr xs xt xu xv xw xx xy xz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 8,
+				"score": 0.002623
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 5,
+				"score": 0.001263
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "y",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 41,
+				"score": 0.013443
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 27,
+				"score": 0.006818
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 3,
+				"score": 0.003846
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 14,
+				"score": 0.002396
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 3,
+				"score": 0.000330
+			}
+		]
+	},
+	{
+		"queries": "y z",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 56,
+				"score": 0.018361
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 38,
+				"score": 0.009596
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 4,
+				"score": 0.005128
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 18,
+				"score": 0.003081
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 10,
+				"score": 0.001099
+			}
+		]
+	},
+	{
+		"queries": "ya yb yc yd ye yf yg yh yi yj yk yl ym",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 1,
+				"score": 0.000171
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "ya ye yi yo yu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 34,
+				"score": 0.011148
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 21,
+				"score": 0.005303
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 3,
+				"score": 0.003846
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 13,
+				"score": 0.002225
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 1,
+				"score": 0.000110
+			}
+		]
+	},
+	{
+		"queries": "yn yo yp yq yr ys yt yu yv yw yx yy yz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 37,
+				"score": 0.012131
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 22,
+				"score": 0.005556
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 3,
+				"score": 0.003846
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 12,
+				"score": 0.002054
+			}
+		]
+	},
+	{
+		"queries": "z",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 15,
+				"score": 0.004918
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 11,
+				"score": 0.002778
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 7,
+				"score": 0.000769
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 4,
+				"score": 0.000685
+			}
+		]
+	},
+	{
+		"queries": "za zb zc zd ze zf zg zh zi zj zk zl zm",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 12,
+				"score": 0.003934
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 7,
+				"score": 0.001768
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 4,
+				"score": 0.000685
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 5,
+				"score": 0.000549
+			}
+		]
+	},
+	{
+		"queries": "za ze zi zo zu",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/numpy-for-matlab-users.html",
+				"count": 12,
+				"score": 0.003934
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 6,
+				"score": 0.001515
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/misc.html",
+				"count": 1,
+				"score": 0.001282
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/contents.html",
+				"count": 4,
+				"score": 0.000685
+			},
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/genindex.html",
+				"count": 4,
+				"score": 0.000439
+			}
+		]
+	},
+	{
+		"queries": "zn zo zp zq zr zs zt zu zv zw zx zy zz",
+		"results": [
+			{
+				"where": "https://www.cs.usfca.edu/~cs212/numpy/user/quickstart.html",
+				"count": 1,
+				"score": 0.000253
+			}
+		]
+	}
+]
