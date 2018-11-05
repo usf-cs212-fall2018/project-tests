@@ -1,0 +1,453 @@
+{
+	"a": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			9
+		]
+	},
+	"align": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			56,
+			60
+		]
+	},
+	"all": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			153
+		]
+	},
+	"also": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			6
+		]
+	},
+	"and": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			32,
+			142,
+			150
+		]
+	},
+	"as": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			8
+		]
+	},
+	"attach": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			43
+		]
+	},
+	"avail": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			7
+		]
+	},
+	"background": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			33,
+			36,
+			38,
+			40,
+			42,
+			44,
+			46
+		]
+	},
+	"border": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			86,
+			89,
+			92,
+			95,
+			97,
+			99,
+			101,
+			104,
+			106,
+			108,
+			110,
+			111
+		]
+	},
+	"bottom": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			71,
+			80,
+			91,
+			107
+		]
+	},
+	"box": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			65
+		]
+	},
+	"by": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			140
+		]
+	},
+	"classif": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			116
+		]
+	},
+	"clear": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			115
+		]
+	},
+	"color": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			31,
+			35,
+			37,
+			100,
+			136
+		]
+	},
+	"copyright": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			147
+		]
+	},
+	"css": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			1
+		]
+	},
+	"cssindex": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			144
+		]
+	},
+	"cssproperti": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			146
+		]
+	},
+	"cssstructur": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			145
+		]
+	},
+	"decor": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			54
+		]
+	},
+	"definit": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			17
+		]
+	},
+	"display": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			118
+		]
+	},
+	"document": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			11
+		]
+	},
+	"famili": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			21
+		]
+	},
+	"float": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			114
+		]
+	},
+	"font": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			18,
+			20,
+			22,
+			24,
+			26,
+			28,
+			30
+		]
+	},
+	"height": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			64,
+			113
+		]
+	},
+	"imag": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			39,
+			125
+		]
+	},
+	"in": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			15
+		]
+	},
+	"indent": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			62
+		]
+	},
+	"is": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			5
+		]
+	},
+	"john": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			148
+		]
+	},
+	"johnpozadzid": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			141
+		]
+	},
+	"kb": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			12
+		]
+	},
+	"left": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			73,
+			82,
+			94,
+			109
+		]
+	},
+	"length": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			132
+		]
+	},
+	"letter": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			51
+		]
+	},
+	"liam": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			151
+		]
+	},
+	"liamquinn": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			143
+		]
+	},
+	"line": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			63
+		]
+	},
+	"list": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			120,
+			123,
+			126,
+			129
+		]
+	},
+	"maintain": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			139
+		]
+	},
+	"margin": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			68,
+			70,
+			72,
+			74,
+			75
+		]
+	},
+	"pad": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			77,
+			79,
+			81,
+			83,
+			84
+		]
+	},
+	"percentag": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			134
+		]
+	},
+	"posit": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			45,
+			128
+		]
+	},
+	"pozadzid": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			149
+		]
+	},
+	"properti": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			2,
+			16,
+			19,
+			34,
+			48,
+			66,
+			117
+		]
+	},
+	"quinn": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			152
+		]
+	},
+	"repeat": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			41
+		]
+	},
+	"reserv": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			155
+		]
+	},
+	"right": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			69,
+			78,
+			88,
+			105,
+			154
+		]
+	},
+	"section": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			4
+		]
+	},
+	"singl": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			10
+		]
+	},
+	"size": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			29
+		]
+	},
+	"space": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			50,
+			52
+		]
+	},
+	"style": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			23,
+			102,
+			121,
+			124,
+			127,
+			130
+		]
+	},
+	"syntax": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			13
+		]
+	},
+	"text": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			47,
+			53,
+			57,
+			59,
+			61
+		]
+	},
+	"this": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			3
+		]
+	},
+	"top": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			67,
+			76,
+			85,
+			103
+		]
+	},
+	"transform": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			58
+		]
+	},
+	"type": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			122
+		]
+	},
+	"unit": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			131,
+			133,
+			135,
+			137
+		]
+	},
+	"url": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			138
+		]
+	},
+	"use": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			14
+		]
+	},
+	"variant": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			25
+		]
+	},
+	"vertic": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			55
+		]
+	},
+	"weight": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			27
+		]
+	},
+	"whitespac": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			119
+		]
+	},
+	"width": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			87,
+			90,
+			93,
+			96,
+			98,
+			112
+		]
+	},
+	"word": {
+		"https://www.cs.usfca.edu/~cs212/wdgcss/properties.html": [
+			49
+		]
+	}
+}
