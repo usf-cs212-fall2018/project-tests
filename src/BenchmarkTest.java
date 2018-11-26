@@ -1,9 +1,11 @@
+import static org.junit.jupiter.api.Assertions.assertTimeout;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.fail;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.nio.file.Paths;
+import java.time.Duration;
 
 import org.junit.jupiter.api.Test;
 
@@ -25,6 +27,9 @@ public class BenchmarkTest {
 
 	private static final int THREADS = 5;
 
+	// timeout PER RUN (not for all runs)
+	private static final Duration TIMEOUT = Duration.ofMinutes(1);
+
 	// not used
 	public int blackhole;
 
@@ -32,7 +37,9 @@ public class BenchmarkTest {
 		int result = 0;
 
 		try {
-			Driver.main(args);
+			assertTimeout(TIMEOUT, () -> {
+				Driver.main(args);
+			});
 		}
 		catch (Exception e) {
 			result = -1;

@@ -27,4 +27,9 @@ public class Project3Test {
 	public class Project3StressTest extends StressTest {
 
 	}
+
+	@Nested
+	public class Project3BenchmarkTest extends BenchmarkTest {
+
+	}
 }
