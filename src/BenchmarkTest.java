@@ -57,8 +57,8 @@ public class BenchmarkTest {
 		String[] args1 = { "-path", path, "-search", query };
 		String[] args2 = { "-path", path, "-search", query, "-threads", String.valueOf(THREADS) };
 
-		long[] singleRuns = benchmark(args1);
 		long[] threadRuns = benchmark(args2);
+		long[] singleRuns = benchmark(args1);
 
 		long singleTotal = 0;
 		long threadTotal = 0;
